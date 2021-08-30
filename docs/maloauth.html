@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>OAuth authorization required</title>
+	<meta charset="utf-8">
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+</head>
+
+<body class="p-oauth x1000">
+	<section class="l-page">
+		<p>
+			<header class="head">
+				<h2>Authorization code / Код авторизации</h2> </header> <code class="b-code" id="authorization_code" style="background: #263238; color: #fff; padding: 8px; display: block">	["code"]</code></div>
+			<div class="l-footer"></div>
+	</section>
+	<script type="application/javascript">
+	function getParameterByName(name, url = window.location.href) {
+		name = name.replace(/[\[\]]/g, '\\$&');
+		let regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+			results = regex.exec(url);
+		if(!results) return null;
+		if(!results[2]) return '';
+		return decodeURIComponent(results[2].replace(/\+/g, ' '));
+	}
+
+	function getCode() {
+		let authCodeSection = document.documentElement.getElementsByClassName('b-code');
+		let code = getParameterByName('code');
+		authCodeSection[0].textContent = code;
+	}
+	getCode();
+	</script>
+</body>
+</html>
