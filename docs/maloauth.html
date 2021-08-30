@@ -9,28 +9,47 @@
 </head>
 
 <body class="p-oauth x1000">
+	<script>
+		function copyToClipboard(text) {
+    		var authCodeSection = document.documentElement.getElementsByClassName('b-code');
+    		var code = authCodeSection[0].textContent;
+
+    		var inputc = document.body.appendChild(document.createElement("input"));
+    		inputc.value = code;
+    		inputc.focus();
+			inputc.select();
+    		document.execCommand('copy');
+    		inputc.parentNode.removeChild(inputc);
+		}
+	</script>
+
 	<section class="l-page">
 		<p>
 			<header class="head">
-				<h2>Authorization code / Код авторизации</h2> </header> <code class="b-code" id="authorization_code" style="background: #263238; color: #fff; padding: 8px; display: block">	["code"]</code></div>
-			<div class="l-footer"></div>
+				<h2>Authorization code / Код авторизации</h2>
+			</header>
+			<code class="b-code" id="authorization_code" style="background: #263238; color: #fff; padding: 8px; display: block">	["code"]</code>
+		</div>
+		<input id="copyCode" type="button" value="Copy / Скопировать" onclick="copyToClipboard();" />
+		<div class="l-footer"></div>
 	</section>
-	<script type="application/javascript">
-	function getParameterByName(name, url = window.location.href) {
-		name = name.replace(/[\[\]]/g, '\\$&');
-		let regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-			results = regex.exec(url);
-		if(!results) return null;
-		if(!results[2]) return '';
-		return decodeURIComponent(results[2].replace(/\+/g, ' '));
-	}
 
-	function getCode() {
-		let authCodeSection = document.documentElement.getElementsByClassName('b-code');
-		let code = getParameterByName('code');
-		authCodeSection[0].textContent = code;
-	}
-	getCode();
+	<script type="application/javascript">
+		function getParameterByName(name, url = window.location.href) {
+			name = name.replace(/[\[\]]/g, '\\$&');
+			let regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+				results = regex.exec(url);
+			if(!results) return null;
+			if(!results[2]) return '';
+			return decodeURIComponent(results[2].replace(/\+/g, ' '));
+		}
+	
+		function getCode() {
+			let authCodeSection = document.documentElement.getElementsByClassName('b-code');
+			let code = getParameterByName('code');
+			authCodeSection[0].textContent = code;
+		}
+		getCode();
 	</script>
 </body>
 </html>
