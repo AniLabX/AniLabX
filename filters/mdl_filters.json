@@ -1,4678 +1,2674 @@
 [
     {
-        "filter_id": 2,
         "id": 44,
-        "name": "Food",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Food"
     },
     {
-        "filter_id": 3,
         "id": 45,
-        "name": "Military",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Military"
     },
     {
-        "filter_id": 6,
         "id": 46,
-        "name": "Friendship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Friendship"
     },
     {
-        "filter_id": 7,
         "id": 47,
-        "name": "Music",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Music"
     },
     {
-        "filter_id": 10,
         "id": 48,
-        "name": "Historical",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Historical"
     },
     {
-        "filter_id": 11,
         "id": 49,
-        "name": "Mystery",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mystery"
     },
     {
-        "filter_id": 12,
         "id": 50,
-        "name": "Tokusatsu",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Tokusatsu"
     },
     {
-        "filter_id": 13,
         "id": 51,
-        "name": "Business",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Business"
     },
     {
-        "filter_id": 16,
         "id": 52,
-        "name": "Vampire",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Vampire"
     },
     {
-        "filter_id": 17,
         "id": 53,
-        "name": "Comedy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Comedy"
     },
     {
-        "filter_id": 19,
         "id": 54,
-        "name": "Romance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Romance"
     },
     {
-        "filter_id": 21,
         "id": 55,
-        "name": "Crime",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Crime"
     },
     {
-        "filter_id": 23,
         "id": 56,
-        "name": "School",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "School"
     },
     {
-        "filter_id": 24,
         "id": 57,
-        "name": "Youth",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Youth"
     },
     {
-        "filter_id": 29,
         "id": 58,
-        "name": "Family",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Family"
     },
     {
-        "filter_id": 31,
         "id": 59,
-        "name": "Sports",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sports"
     },
     {
-        "filter_id": 34,
         "id": 60,
-        "name": "Supernatural",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Supernatural"
     },
     {
-        "filter_id": 38,
         "id": 61,
-        "name": "Detective",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Detective"
     },
     {
-        "filter_id": 39,
         "id": 62,
-        "name": "Tragedy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Tragedy"
     },
     {
-        "filter_id": 40,
         "id": 63,
-        "name": "Mature",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mature"
     },
     {
-        "filter_id": 42,
         "id": 64,
-        "name": "Investigation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Investigation"
     },
     {
-        "filter_id": 43,
         "id": 65,
-        "name": "manga",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "manga"
     },
     {
-        "filter_id": 45,
         "id": 66,
-        "name": "anime",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "anime"
     },
     {
-        "filter_id": 75,
         "id": 67,
-        "name": "variety",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "variety"
     },
     {
-        "filter_id": 76,
         "id": 68,
-        "name": "Game Show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Game Show"
     },
     {
-        "filter_id": 77,
         "id": 69,
-        "name": "celebrities",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "celebrities"
     },
     {
-        "filter_id": 80,
         "id": 70,
-        "name": "stand up comedy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "stand up comedy"
     },
     {
-        "filter_id": 81,
         "id": 71,
-        "name": "Cult",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cult"
     },
     {
-        "filter_id": 84,
         "id": 72,
-        "name": "Inspired by Real Events",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Inspired by Real Events"
     },
     {
-        "filter_id": 85,
         "id": 73,
-        "name": "Alien",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Alien"
     },
     {
-        "filter_id": 86,
         "id": 74,
-        "name": "Prison",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Prison"
     },
     {
-        "filter_id": 87,
         "id": 75,
-        "name": "Serial Killer",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Serial Killer"
     },
     {
-        "filter_id": 89,
         "id": 76,
-        "name": "Reality Show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Reality Show"
     },
     {
-        "filter_id": 91,
         "id": 77,
-        "name": "Idol Actor",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Idol Actor"
     },
     {
-        "filter_id": 95,
         "id": 78,
-        "name": "music show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "music show"
     },
     {
-        "filter_id": 96,
         "id": 79,
-        "name": "Talk Show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Talk Show"
     },
     {
-        "filter_id": 97,
         "id": 80,
-        "name": "reality",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "reality"
     },
     {
-        "filter_id": 98,
         "id": 81,
-        "name": "outdoor variety shows",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "outdoor variety shows"
     },
     {
-        "filter_id": 99,
         "id": 82,
-        "name": "music-reality show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "music-reality show"
     },
     {
-        "filter_id": 100,
         "id": 83,
-        "name": "Competition",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Competition"
     },
     {
-        "filter_id": 101,
         "id": 84,
-        "name": "Time Travel",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Time Travel"
     },
     {
-        "filter_id": 103,
         "id": 85,
-        "name": "Grim Reaper",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Grim Reaper"
     },
     {
-        "filter_id": 104,
         "id": 86,
-        "name": "Bromance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Bromance"
     },
     {
-        "filter_id": 108,
         "id": 87,
-        "name": "survival show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "survival show"
     },
     {
-        "filter_id": 109,
         "id": 88,
-        "name": "BTS",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "BTS"
     },
     {
-        "filter_id": 110,
         "id": 89,
-        "name": "Suicide",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Suicide"
     },
     {
-        "filter_id": 111,
         "id": 90,
-        "name": "Disaster",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Disaster"
     },
     {
-        "filter_id": 112,
         "id": 91,
-        "name": "Sexual Assault",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sexual Assault"
     },
     {
-        "filter_id": 113,
         "id": 92,
-        "name": "Based on true story",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Based on true story"
     },
     {
-        "filter_id": 114,
         "id": 93,
-        "name": "deaf character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "deaf character"
     },
     {
-        "filter_id": 115,
         "id": 94,
-        "name": "based on true event",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "based on true event"
     },
     {
-        "filter_id": 119,
         "id": 95,
-        "name": "Lesbian Character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Lesbian Character"
     },
     {
-        "filter_id": 120,
         "id": 96,
-        "name": "Love Triangle",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Love Triangle"
     },
     {
-        "filter_id": 121,
         "id": 97,
-        "name": "God",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "God"
     },
     {
-        "filter_id": 122,
         "id": 98,
-        "name": "Adapted from a webtoon",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Adapted from a webtoon"
     },
     {
-        "filter_id": 124,
         "id": 99,
-        "name": "Noir",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Noir"
     },
     {
-        "filter_id": 125,
         "id": 100,
-        "name": "Gay Character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gay Character"
     },
     {
-        "filter_id": 126,
         "id": 101,
-        "name": "Cross Dressing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cross Dressing"
     },
     {
-        "filter_id": 127,
         "id": 102,
-        "name": "Adapted From A Manga",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Adapted From A Manga"
     },
     {
-        "filter_id": 128,
         "id": 103,
-        "name": "Body Swap",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Body Swap"
     },
     {
-        "filter_id": 129,
         "id": 104,
-        "name": "Joseon Dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Joseon Dynasty"
     },
     {
-        "filter_id": 130,
         "id": 105,
-        "name": "Ghost(s)",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Ghost(s)"
     },
     {
-        "filter_id": 131,
         "id": 106,
-        "name": "Goryeo Dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Goryeo Dynasty"
     },
     {
-        "filter_id": 132,
         "id": 107,
-        "name": "Gwangjong of Goryeo",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gwangjong of Goryeo"
     },
     {
-        "filter_id": 133,
         "id": 108,
-        "name": "Adapted From A Novel",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Adapted From A Novel"
     },
     {
-        "filter_id": 134,
         "id": 109,
-        "name": "apocalypse",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "apocalypse"
     },
     {
-        "filter_id": 135,
         "id": 110,
-        "name": "School Bullying",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "School Bullying"
     },
     {
-        "filter_id": 137,
         "id": 111,
-        "name": "music competition",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "music competition"
     },
     {
-        "filter_id": 138,
         "id": 112,
-        "name": "drug smuggling",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "drug smuggling"
     },
     {
-        "filter_id": 139,
         "id": 113,
-        "name": "Filmed Abroad",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Filmed Abroad"
     },
     {
-        "filter_id": 140,
         "id": 114,
-        "name": "Ballet",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Ballet"
     },
     {
-        "filter_id": 143,
         "id": 115,
-        "name": "rap",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "rap"
     },
     {
-        "filter_id": 144,
         "id": 116,
-        "name": "sex",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "sex"
     },
     {
-        "filter_id": 145,
         "id": 117,
-        "name": "talk-variety",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "talk-variety"
     },
     {
-        "filter_id": 146,
         "id": 118,
-        "name": "Pregnancy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Pregnancy"
     },
     {
-        "filter_id": 147,
         "id": 119,
-        "name": "chaebol",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "chaebol"
     },
     {
-        "filter_id": 149,
         "id": 120,
-        "name": "Marriage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Marriage"
     },
     {
-        "filter_id": 156,
         "id": 121,
-        "name": "Unrequited Love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Unrequited Love"
     },
     {
-        "filter_id": 158,
         "id": 122,
-        "name": "survival competition",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "survival competition"
     },
     {
-        "filter_id": 161,
         "id": 123,
-        "name": "takumi-kun series",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "takumi-kun series"
     },
     {
-        "filter_id": 162,
         "id": 124,
-        "name": "Mental Health",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mental Health"
     },
     {
-        "filter_id": 165,
         "id": 125,
-        "name": "First Love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "First Love"
     },
     {
-        "filter_id": 166,
         "id": 126,
-        "name": "Host club",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Host club"
     },
     {
-        "filter_id": 168,
         "id": 127,
-        "name": "travel show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "travel show"
     },
     {
-        "filter_id": 169,
         "id": 128,
-        "name": "Clingy Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Clingy Male Lead"
     },
     {
-        "filter_id": 170,
         "id": 129,
-        "name": "Rich Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Rich Male Lead"
     },
     {
-        "filter_id": 171,
         "id": 130,
-        "name": "Poor Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Poor Male Lead"
     },
     {
-        "filter_id": 172,
         "id": 131,
-        "name": "Extreme Violence",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Extreme Violence"
     },
     {
-        "filter_id": 173,
         "id": 132,
-        "name": "confused male lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "confused male lead"
     },
     {
-        "filter_id": 174,
         "id": 133,
-        "name": "Prostitution",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Prostitution"
     },
     {
-        "filter_id": 175,
         "id": 134,
-        "name": "Unhealthy Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Unhealthy Relationship"
     },
     {
-        "filter_id": 176,
         "id": 135,
-        "name": "captivity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "captivity"
     },
     {
-        "filter_id": 178,
         "id": 136,
-        "name": "Incest",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Incest"
     },
     {
-        "filter_id": 180,
         "id": 137,
-        "name": "Cooking",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cooking"
     },
     {
-        "filter_id": 183,
         "id": 138,
-        "name": "Idol",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Idol"
     },
     {
-        "filter_id": 184,
         "id": 139,
-        "name": "Variety Show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Variety Show"
     },
     {
-        "filter_id": 186,
         "id": 140,
-        "name": "Hwaseong Serial Murders",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hwaseong Serial Murders"
     },
     {
-        "filter_id": 189,
         "id": 141,
-        "name": "Sexual Innuendo",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sexual Innuendo"
     },
     {
-        "filter_id": 194,
         "id": 142,
-        "name": "quiz show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "quiz show"
     },
     {
-        "filter_id": 198,
         "id": 143,
-        "name": "Rich man/Poor woman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Rich man/Poor woman"
     },
     {
-        "filter_id": 199,
         "id": 144,
-        "name": "Celebrity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Celebrity"
     },
     {
-        "filter_id": 200,
         "id": 145,
-        "name": "Amnesia",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Amnesia"
     },
     {
-        "filter_id": 201,
         "id": 146,
-        "name": "Arranged Marriage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Arranged Marriage"
     },
     {
-        "filter_id": 202,
         "id": 147,
-        "name": "Age Gap",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Age Gap"
     },
     {
-        "filter_id": 203,
         "id": 148,
-        "name": "Reincarnation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Reincarnation"
     },
     {
-        "filter_id": 204,
         "id": 149,
-        "name": "crown prince",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "crown prince"
     },
     {
-        "filter_id": 206,
         "id": 150,
-        "name": "Love–Hate Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Love–Hate Relationship"
     },
     {
-        "filter_id": 208,
         "id": 151,
-        "name": "espionage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "espionage"
     },
     {
-        "filter_id": 209,
         "id": 152,
-        "name": "Hidden Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hidden Relationship"
     },
     {
-        "filter_id": 210,
         "id": 153,
-        "name": "Childhood Friends",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Childhood Friends"
     },
     {
-        "filter_id": 211,
         "id": 154,
-        "name": "Character Development",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Character Development"
     },
     {
-        "filter_id": 212,
         "id": 155,
-        "name": "riches to rags",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "riches to rags"
     },
     {
-        "filter_id": 213,
         "id": 156,
-        "name": "tragic past",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "tragic past"
     },
     {
-        "filter_id": 217,
         "id": 157,
-        "name": "Double Identity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Double Identity"
     },
     {
-        "filter_id": 218,
         "id": 158,
-        "name": "Female chases male first",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Female chases male first"
     },
     {
-        "filter_id": 219,
         "id": 159,
-        "name": "Cold man",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cold man"
     },
     {
-        "filter_id": 222,
         "id": 160,
-        "name": "blunt woman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "blunt woman"
     },
     {
-        "filter_id": 223,
         "id": 161,
-        "name": "Nice Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Nice Male Lead"
     },
     {
-        "filter_id": 224,
         "id": 162,
-        "name": "Strong Girl",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Strong Girl"
     },
     {
-        "filter_id": 226,
         "id": 163,
-        "name": "College Life",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "College Life"
     },
     {
-        "filter_id": 227,
         "id": 164,
-        "name": "Office Romance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Office Romance"
     },
     {
-        "filter_id": 229,
         "id": 165,
-        "name": "Woman Loves Eating",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Woman Loves Eating"
     },
     {
-        "filter_id": 230,
         "id": 166,
-        "name": "Innocent Female Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Innocent Female Lead"
     },
     {
-        "filter_id": 234,
         "id": 167,
-        "name": "adopted child",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "adopted child"
     },
     {
-        "filter_id": 235,
         "id": 168,
-        "name": "lost child",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "lost child"
     },
     {
-        "filter_id": 240,
         "id": 169,
-        "name": "confident man",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "confident man"
     },
     {
-        "filter_id": 242,
         "id": 170,
-        "name": "instant attraction",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "instant attraction"
     },
     {
-        "filter_id": 250,
         "id": 171,
-        "name": "based on a novel",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "based on a novel"
     },
     {
-        "filter_id": 252,
         "id": 172,
-        "name": "Transgender Character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Transgender Character"
     },
     {
-        "filter_id": 253,
         "id": 173,
-        "name": "human rights",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "human rights"
     },
     {
-        "filter_id": 255,
         "id": 174,
-        "name": "ghosts",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "ghosts"
     },
     {
-        "filter_id": 256,
         "id": 175,
-        "name": "master-slave",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "master-slave"
     },
     {
-        "filter_id": 257,
         "id": 176,
-        "name": "Mean male lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mean male lead"
     },
     {
-        "filter_id": 260,
         "id": 177,
-        "name": "Advertisement",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Advertisement"
     },
     {
-        "filter_id": 262,
         "id": 178,
-        "name": "Child",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Child"
     },
     {
-        "filter_id": 264,
         "id": 179,
-        "name": "wolf game series",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "wolf game series"
     },
     {
-        "filter_id": 265,
         "id": 180,
-        "name": "Multiple Couples",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Multiple Couples"
     },
     {
-        "filter_id": 267,
         "id": 181,
-        "name": "gangsters",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "gangsters"
     },
     {
-        "filter_id": 270,
         "id": 182,
-        "name": "Murder",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Murder"
     },
     {
-        "filter_id": 271,
         "id": 183,
-        "name": "Cheating",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cheating"
     },
     {
-        "filter_id": 273,
         "id": 184,
-        "name": "Obsession",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Obsession"
     },
     {
-        "filter_id": 278,
         "id": 185,
-        "name": "hustler",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "hustler"
     },
     {
-        "filter_id": 280,
         "id": 186,
-        "name": "Bisexual",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Bisexual"
     },
     {
-        "filter_id": 285,
         "id": 187,
-        "name": "Aggressive Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Aggressive Male Lead"
     },
     {
-        "filter_id": 289,
         "id": 188,
-        "name": "Slow Romance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Slow Romance"
     },
     {
-        "filter_id": 291,
         "id": 189,
-        "name": "audition",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "audition"
     },
     {
-        "filter_id": 292,
         "id": 190,
-        "name": "Police",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Police"
     },
     {
-        "filter_id": 299,
         "id": 191,
-        "name": "Twins",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Twins"
     },
     {
-        "filter_id": 304,
         "id": 192,
-        "name": "acceptance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "acceptance"
     },
     {
-        "filter_id": 309,
         "id": 193,
-        "name": "HIV",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "HIV"
     },
     {
-        "filter_id": 311,
         "id": 194,
-        "name": "Actor",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Actor"
     },
     {
-        "filter_id": 319,
         "id": 195,
-        "name": "Gore",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gore"
     },
     {
-        "filter_id": 321,
         "id": 196,
-        "name": "Homophobia",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Homophobia"
     },
     {
-        "filter_id": 322,
         "id": 197,
-        "name": "Samurai",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Samurai"
     },
     {
-        "filter_id": 324,
         "id": 198,
-        "name": "lgbt parents",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "lgbt parents"
     },
     {
-        "filter_id": 326,
         "id": 199,
-        "name": "drug addiction",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "drug addiction"
     },
     {
-        "filter_id": 328,
         "id": 200,
-        "name": "assassin",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "assassin"
     },
     {
-        "filter_id": 329,
         "id": 201,
-        "name": "Student/teacher",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Student/teacher"
     },
     {
-        "filter_id": 330,
         "id": 202,
-        "name": "Harem",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Harem"
     },
     {
-        "filter_id": 333,
         "id": 203,
-        "name": "North Korean",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "North Korean"
     },
     {
-        "filter_id": 335,
         "id": 204,
-        "name": "King",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "King"
     },
     {
-        "filter_id": 336,
         "id": 205,
-        "name": "violence",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "violence"
     },
     {
-        "filter_id": 337,
         "id": 206,
-        "name": "elder",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "elder"
     },
     {
-        "filter_id": 340,
         "id": 207,
-        "name": "princess",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "princess"
     },
     {
-        "filter_id": 341,
         "id": 208,
-        "name": "scholar",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "scholar"
     },
     {
-        "filter_id": 343,
         "id": 209,
-        "name": "silla dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "silla dynasty"
     },
     {
-        "filter_id": 345,
         "id": 210,
-        "name": "goguryeo dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "goguryeo dynasty"
     },
     {
-        "filter_id": 346,
         "id": 211,
-        "name": "baekje dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "baekje dynasty"
     },
     {
-        "filter_id": 347,
         "id": 212,
-        "name": "Gumiho",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gumiho"
     },
     {
-        "filter_id": 354,
         "id": 213,
-        "name": "love triangles",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "love triangles"
     },
     {
-        "filter_id": 356,
         "id": 214,
-        "name": "fights",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "fights"
     },
     {
-        "filter_id": 357,
         "id": 215,
-        "name": "Mental Hospital",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mental Hospital"
     },
     {
-        "filter_id": 358,
         "id": 216,
-        "name": "Tragic Past",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Tragic Past"
     },
     {
-        "filter_id": 363,
         "id": 217,
-        "name": "virtual game",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "virtual game"
     },
     {
-        "filter_id": 366,
         "id": 218,
-        "name": "Sismance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sismance"
     },
     {
-        "filter_id": 368,
         "id": 219,
-        "name": "Makeover",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Makeover"
     },
     {
-        "filter_id": 369,
         "id": 220,
-        "name": "weight loss",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "weight loss"
     },
     {
-        "filter_id": 370,
         "id": 221,
-        "name": "Revenge",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Revenge"
     },
     {
-        "filter_id": 377,
         "id": 222,
-        "name": "gaming",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "gaming"
     },
     {
-        "filter_id": 378,
         "id": 223,
-        "name": "second lead syndrome",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "second lead syndrome"
     },
     {
-        "filter_id": 380,
         "id": 224,
-        "name": "cooking show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "cooking show"
     },
     {
-        "filter_id": 381,
         "id": 225,
-        "name": "Second Chance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Second Chance"
     },
     {
-        "filter_id": 383,
         "id": 226,
-        "name": "monsta x",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "monsta x"
     },
     {
-        "filter_id": 385,
         "id": 227,
-        "name": "Step-siblings Love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Step-siblings Love"
     },
     {
-        "filter_id": 390,
         "id": 228,
-        "name": "Bad man/good woman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Bad man/good woman"
     },
     {
-        "filter_id": 392,
         "id": 229,
-        "name": "school rivalry",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "school rivalry"
     },
     {
-        "filter_id": 393,
         "id": 230,
-        "name": "highschool",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "highschool"
     },
     {
-        "filter_id": 396,
         "id": 231,
-        "name": "Fashion",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Fashion"
     },
     {
-        "filter_id": 397,
         "id": 232,
-        "name": "rags to riches",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "rags to riches"
     },
     {
-        "filter_id": 404,
         "id": 233,
-        "name": "Cold man/Warm woman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cold man/Warm woman"
     },
     {
-        "filter_id": 405,
         "id": 234,
-        "name": "love songs love series",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "love songs love series"
     },
     {
-        "filter_id": 406,
         "id": 235,
-        "name": "Housemate",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Housemate"
     },
     {
-        "filter_id": 408,
         "id": 236,
-        "name": "mblaq",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "mblaq"
     },
     {
-        "filter_id": 409,
         "id": 237,
-        "name": "dating show",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "dating show"
     },
     {
-        "filter_id": 412,
         "id": 238,
-        "name": "errotic",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "errotic"
     },
     {
-        "filter_id": 413,
         "id": 239,
-        "name": "Boss/Employee Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Boss/Employee Relationship"
     },
     {
-        "filter_id": 417,
         "id": 240,
-        "name": "dance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "dance"
     },
     {
-        "filter_id": 419,
         "id": 241,
-        "name": "Middle School",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Middle School"
     },
     {
-        "filter_id": 420,
         "id": 242,
-        "name": "Student",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Student"
     },
     {
-        "filter_id": 421,
         "id": 243,
-        "name": "Identity Swap",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Identity Swap"
     },
     {
-        "filter_id": 424,
         "id": 244,
-        "name": "Makjang",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Makjang"
     },
     {
-        "filter_id": 427,
         "id": 245,
-        "name": "Blind Character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Blind Character"
     },
     {
-        "filter_id": 431,
         "id": 246,
-        "name": "love books love series",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "love books love series"
     },
     {
-        "filter_id": 432,
         "id": 247,
-        "name": "Kidnapping",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Kidnapping"
     },
     {
-        "filter_id": 435,
         "id": 248,
-        "name": "Hip Hop",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hip Hop"
     },
     {
-        "filter_id": 436,
         "id": 249,
-        "name": "Cancer",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cancer"
     },
     {
-        "filter_id": 437,
         "id": 250,
-        "name": "Intellectual Disability",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Intellectual Disability"
     },
     {
-        "filter_id": 438,
         "id": 251,
-        "name": "family secret",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "family secret"
     },
     {
-        "filter_id": 441,
         "id": 252,
-        "name": "nct",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "nct"
     },
     {
-        "filter_id": 442,
         "id": 253,
-        "name": "Contract Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Contract Relationship"
     },
     {
-        "filter_id": 443,
         "id": 254,
-        "name": "Hotel",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hotel"
     },
     {
-        "filter_id": 444,
         "id": 255,
-        "name": "ancient china",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "ancient china"
     },
     {
-        "filter_id": 458,
         "id": 256,
-        "name": "Fate",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Fate"
     },
     {
-        "filter_id": 461,
         "id": 257,
-        "name": "Coming of age",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Coming of age"
     },
     {
-        "filter_id": 466,
         "id": 258,
-        "name": "Web Series",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Web Series"
     },
     {
-        "filter_id": 468,
         "id": 259,
-        "name": "criminal",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "criminal"
     },
     {
-        "filter_id": 469,
         "id": 260,
-        "name": "drama special season 8",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "drama special season 8"
     },
     {
-        "filter_id": 471,
         "id": 261,
-        "name": "Sengoku Period",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sengoku Period"
     },
     {
-        "filter_id": 478,
         "id": 262,
-        "name": "Lying",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Lying"
     },
     {
-        "filter_id": 480,
         "id": 263,
-        "name": "Tomboy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Tomboy"
     },
     {
-        "filter_id": 483,
         "id": 264,
-        "name": "Strong Female Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Strong Female Lead"
     },
     {
-        "filter_id": 486,
         "id": 265,
-        "name": "Love Square",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Love Square"
     },
     {
-        "filter_id": 487,
         "id": 266,
-        "name": "Terminal illness",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Terminal illness"
     },
     {
-        "filter_id": 488,
         "id": 267,
-        "name": "mockumentary",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "mockumentary"
     },
     {
-        "filter_id": 491,
         "id": 268,
-        "name": "Genius",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Genius"
     },
     {
-        "filter_id": 492,
         "id": 269,
-        "name": "game",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "game"
     },
     {
-        "filter_id": 496,
         "id": 270,
-        "name": "Korean War",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Korean War"
     },
     {
-        "filter_id": 500,
         "id": 271,
-        "name": "adopted",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "adopted"
     },
     {
-        "filter_id": 502,
         "id": 272,
-        "name": "Gangster",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gangster"
     },
     {
-        "filter_id": 503,
         "id": 273,
-        "name": "forgiveness",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "forgiveness"
     },
     {
-        "filter_id": 504,
         "id": 274,
-        "name": "Step Family",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Step Family"
     },
     {
-        "filter_id": 505,
         "id": 275,
-        "name": "Stolen Identity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Stolen Identity"
     },
     {
-        "filter_id": 506,
         "id": 276,
-        "name": "Sibling",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sibling"
     },
     {
-        "filter_id": 510,
         "id": 277,
-        "name": "Personal growth",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Personal growth"
     },
     {
-        "filter_id": 512,
         "id": 278,
-        "name": "Ex-girlfriend Comes Back",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Ex-girlfriend Comes Back"
     },
     {
-        "filter_id": 513,
         "id": 279,
-        "name": "Writer",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Writer"
     },
     {
-        "filter_id": 514,
         "id": 280,
-        "name": "psychiatry",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "psychiatry"
     },
     {
-        "filter_id": 524,
         "id": 281,
-        "name": "Life Lesson",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Life Lesson"
     },
     {
-        "filter_id": 526,
         "id": 282,
-        "name": "Yakuza",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Yakuza"
     },
     {
-        "filter_id": 528,
         "id": 283,
-        "name": "rich characters",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "rich characters"
     },
     {
-        "filter_id": 529,
         "id": 284,
-        "name": "Poor Characters",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Poor Characters"
     },
     {
-        "filter_id": 530,
         "id": 285,
-        "name": "personality different from appearance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "personality different from appearance"
     },
     {
-        "filter_id": 531,
         "id": 286,
-        "name": "Huge Family",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Huge Family"
     },
     {
-        "filter_id": 543,
         "id": 287,
-        "name": "girls' school",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "girls' school"
     },
     {
-        "filter_id": 544,
         "id": 288,
-        "name": "boys' school",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "boys' school"
     },
     {
-        "filter_id": 549,
         "id": 289,
-        "name": "Clingy Female Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Clingy Female Lead"
     },
     {
-        "filter_id": 553,
         "id": 290,
-        "name": "hilarious male lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "hilarious male lead"
     },
     {
-        "filter_id": 554,
         "id": 291,
-        "name": "Baseball",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Baseball"
     },
     {
-        "filter_id": 557,
         "id": 292,
-        "name": "Eccentric Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Eccentric Male Lead"
     },
     {
-        "filter_id": 559,
         "id": 293,
-        "name": "Abusive Parents",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Abusive Parents"
     },
     {
-        "filter_id": 560,
         "id": 294,
-        "name": "money-obsession",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "money-obsession"
     },
     {
-        "filter_id": 562,
         "id": 295,
-        "name": "Calm Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Calm Male Lead"
     },
     {
-        "filter_id": 563,
         "id": 296,
-        "name": "Ghost-seeing Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Ghost-seeing Male Lead"
     },
     {
-        "filter_id": 564,
         "id": 297,
-        "name": "death note",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "death note"
     },
     {
-        "filter_id": 570,
         "id": 298,
-        "name": "Phobia",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Phobia"
     },
     {
-        "filter_id": 571,
         "id": 299,
-        "name": "Gang",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gang"
     },
     {
-        "filter_id": 573,
         "id": 300,
-        "name": "yankee",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "yankee"
     },
     {
-        "filter_id": 576,
         "id": 301,
-        "name": "life lesson",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "life lesson"
     },
     {
-        "filter_id": 580,
         "id": 302,
-        "name": "god of death",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "god of death"
     },
     {
-        "filter_id": 581,
         "id": 303,
-        "name": "intelligent character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "intelligent character"
     },
     {
-        "filter_id": 582,
         "id": 304,
-        "name": "Alzheimer's Disease",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Alzheimer's Disease"
     },
     {
-        "filter_id": 584,
         "id": 305,
-        "name": "Misunderstanding",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Misunderstanding"
     },
     {
-        "filter_id": 585,
         "id": 306,
-        "name": "family pressure",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "family pressure"
     },
     {
-        "filter_id": 588,
         "id": 307,
-        "name": "noona romance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "noona romance"
     },
     {
-        "filter_id": 589,
         "id": 308,
-        "name": "Evil Stepmother",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Evil Stepmother"
     },
     {
-        "filter_id": 590,
         "id": 309,
-        "name": "villainess",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "villainess"
     },
     {
-        "filter_id": 591,
         "id": 310,
-        "name": "Blindness",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Blindness"
     },
     {
-        "filter_id": 592,
         "id": 311,
-        "name": "terminal disease",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "terminal disease"
     },
     {
-        "filter_id": 595,
         "id": 312,
-        "name": "Obsessive Second Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Obsessive Second Lead"
     },
     {
-        "filter_id": 597,
         "id": 313,
-        "name": "switched at birth",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "switched at birth"
     },
     {
-        "filter_id": 598,
         "id": 314,
-        "name": "journalism",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "journalism"
     },
     {
-        "filter_id": 599,
         "id": 315,
-        "name": "Orphan",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Orphan"
     },
     {
-        "filter_id": 600,
         "id": 316,
-        "name": "Cohabitation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cohabitation"
     },
     {
-        "filter_id": 602,
         "id": 317,
-        "name": "Friends To Lovers",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Friends To Lovers"
     },
     {
-        "filter_id": 603,
         "id": 318,
-        "name": "slow-burn romance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "slow-burn romance"
     },
     {
-        "filter_id": 606,
         "id": 319,
-        "name": "VIXX",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "VIXX"
     },
     {
-        "filter_id": 607,
         "id": 320,
-        "name": "kpop",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "kpop"
     },
     {
-        "filter_id": 608,
         "id": 321,
-        "name": "Beauty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Beauty"
     },
     {
-        "filter_id": 613,
         "id": 322,
-        "name": "Autobiography",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Autobiography"
     },
     {
-        "filter_id": 617,
         "id": 323,
-        "name": "Robot",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Robot"
     },
     {
-        "filter_id": 618,
         "id": 324,
-        "name": "Artificial Intelligence",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Artificial Intelligence"
     },
     {
-        "filter_id": 619,
         "id": 325,
-        "name": "crossworlds traveler",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "crossworlds traveler"
     },
     {
-        "filter_id": 620,
         "id": 326,
-        "name": "game world",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "game world"
     },
     {
-        "filter_id": 621,
         "id": 327,
-        "name": "online gaming",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "online gaming"
     },
     {
-        "filter_id": 623,
         "id": 328,
-        "name": "Emotional Blunting",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Emotional Blunting"
     },
     {
-        "filter_id": 624,
         "id": 329,
-        "name": "Illness",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Illness"
     },
     {
-        "filter_id": 625,
         "id": 330,
-        "name": "Dissociative identity disorder",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Dissociative identity disorder"
     },
     {
-        "filter_id": 626,
         "id": 331,
-        "name": "Disability",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Disability"
     },
     {
-        "filter_id": 628,
         "id": 332,
-        "name": "Autism",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Autism"
     },
     {
-        "filter_id": 631,
         "id": 333,
-        "name": "Obsessive-compulsive Disorder",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Obsessive-compulsive Disorder"
     },
     {
-        "filter_id": 632,
         "id": 334,
-        "name": "Rich woman/Poor man",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Rich woman/Poor man"
     },
     {
-        "filter_id": 642,
         "id": 335,
-        "name": "antihero",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "antihero"
     },
     {
-        "filter_id": 645,
         "id": 336,
-        "name": "Mermaid",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mermaid"
     },
     {
-        "filter_id": 646,
         "id": 337,
-        "name": "Con Artist",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Con Artist"
     },
     {
-        "filter_id": 647,
         "id": 338,
-        "name": "Bodyguard",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Bodyguard"
     },
     {
-        "filter_id": 648,
         "id": 339,
-        "name": "Curse",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Curse"
     },
     {
-        "filter_id": 649,
         "id": 340,
-        "name": "Cheerful Girl",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cheerful Girl"
     },
     {
-        "filter_id": 659,
         "id": 341,
-        "name": "switched identities",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "switched identities"
     },
     {
-        "filter_id": 667,
         "id": 342,
-        "name": "Slap and Kiss",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Slap and Kiss"
     },
     {
-        "filter_id": 670,
         "id": 343,
-        "name": "Heartbreak",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Heartbreak"
     },
     {
-        "filter_id": 677,
         "id": 344,
-        "name": "Tsundere",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Tsundere"
     },
     {
-        "filter_id": 678,
         "id": 345,
-        "name": "high jump",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "high jump"
     },
     {
-        "filter_id": 681,
         "id": 346,
-        "name": "abortion",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "abortion"
     },
     {
-        "filter_id": 683,
         "id": 347,
-        "name": "Transfer student",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Transfer student"
     },
     {
-        "filter_id": 685,
         "id": 348,
-        "name": "Heiress",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Heiress"
     },
     {
-        "filter_id": 686,
         "id": 349,
-        "name": "Birth Secret",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Birth Secret"
     },
     {
-        "filter_id": 689,
         "id": 350,
-        "name": "roommate",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "roommate"
     },
     {
-        "filter_id": 690,
         "id": 351,
-        "name": "stylish woman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "stylish woman"
     },
     {
-        "filter_id": 691,
         "id": 352,
-        "name": "enemies to lovers",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "enemies to lovers"
     },
     {
-        "filter_id": 692,
         "id": 353,
-        "name": "Interspecies Romance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Interspecies Romance"
     },
     {
-        "filter_id": 696,
         "id": 354,
-        "name": "Nudity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Nudity"
     },
     {
-        "filter_id": 697,
         "id": 355,
-        "name": "Rape",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Rape"
     },
     {
-        "filter_id": 698,
         "id": 356,
-        "name": "Gang Rape",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gang Rape"
     },
     {
-        "filter_id": 703,
         "id": 357,
-        "name": "Immortal",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Immortal"
     },
     {
-        "filter_id": 704,
         "id": 358,
-        "name": "fox",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "fox"
     },
     {
-        "filter_id": 705,
         "id": 359,
-        "name": "hu li jing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "hu li jing"
     },
     {
-        "filter_id": 706,
         "id": 360,
-        "name": "merman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "merman"
     },
     {
-        "filter_id": 710,
         "id": 361,
-        "name": "Shapeshifter",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Shapeshifter"
     },
     {
-        "filter_id": 711,
         "id": 362,
-        "name": "Demon",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Demon"
     },
     {
-        "filter_id": 715,
         "id": 363,
-        "name": "dragon",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "dragon"
     },
     {
-        "filter_id": 720,
         "id": 364,
-        "name": "android",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "android"
     },
     {
-        "filter_id": 721,
         "id": 365,
-        "name": "Coma",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Coma"
     },
     {
-        "filter_id": 722,
         "id": 366,
-        "name": "angel of death",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "angel of death"
     },
     {
-        "filter_id": 723,
         "id": 367,
-        "name": "jeoseung saja",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "jeoseung saja"
     },
     {
-        "filter_id": 725,
         "id": 368,
-        "name": "Elemental Power",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Elemental Power"
     },
     {
-        "filter_id": 726,
         "id": 369,
-        "name": "angel",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "angel"
     },
     {
-        "filter_id": 730,
         "id": 370,
-        "name": "devil",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "devil"
     },
     {
-        "filter_id": 734,
         "id": 371,
-        "name": "Precognition",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Precognition"
     },
     {
-        "filter_id": 738,
         "id": 372,
-        "name": "Time Manipulation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Time Manipulation"
     },
     {
-        "filter_id": 739,
         "id": 373,
-        "name": "Superhuman Strength",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Superhuman Strength"
     },
     {
-        "filter_id": 740,
         "id": 374,
-        "name": "Werewolf",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Werewolf"
     },
     {
-        "filter_id": 741,
         "id": 375,
-        "name": "Child Abuse",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Child Abuse"
     },
     {
-        "filter_id": 742,
         "id": 376,
-        "name": "molestation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "molestation"
     },
     {
-        "filter_id": 745,
         "id": 377,
-        "name": "Hate To Love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hate To Love"
     },
     {
-        "filter_id": 747,
         "id": 378,
-        "name": "secret / hidden identity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "secret / hidden identity"
     },
     {
-        "filter_id": 750,
         "id": 379,
-        "name": "Deity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Deity"
     },
     {
-        "filter_id": 751,
         "id": 380,
-        "name": "snake",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "snake"
     },
     {
-        "filter_id": 752,
         "id": 381,
-        "name": "Adapted from a manhwa",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Adapted from a manhwa"
     },
     {
-        "filter_id": 753,
         "id": 382,
-        "name": "Special Power",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Special Power"
     },
     {
-        "filter_id": 758,
         "id": 383,
-        "name": "Marriage of Convenience",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Marriage of Convenience"
     },
     {
-        "filter_id": 763,
         "id": 384,
-        "name": "Male Chases Female First",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Male Chases Female First"
     },
     {
-        "filter_id": 766,
         "id": 385,
-        "name": "Corruption",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Corruption"
     },
     {
-        "filter_id": 769,
         "id": 386,
-        "name": "Divorce",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Divorce"
     },
     {
-        "filter_id": 772,
         "id": 387,
-        "name": "Brothers",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Brothers"
     },
     {
-        "filter_id": 775,
         "id": 388,
-        "name": "kamen rider",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "kamen rider"
     },
     {
-        "filter_id": 776,
         "id": 389,
-        "name": "toku",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "toku"
     },
     {
-        "filter_id": 782,
         "id": 390,
-        "name": "deliveryman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "deliveryman"
     },
     {
-        "filter_id": 787,
         "id": 391,
-        "name": "Japanese Colonial Rule",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Japanese Colonial Rule"
     },
     {
-        "filter_id": 789,
         "id": 392,
-        "name": "Erotic",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Erotic"
     },
     {
-        "filter_id": 792,
         "id": 393,
-        "name": "Black Magic",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Black Magic"
     },
     {
-        "filter_id": 793,
         "id": 394,
-        "name": "Magic",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Magic"
     },
     {
-        "filter_id": 794,
         "id": 395,
-        "name": "School Problems",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "School Problems"
     },
     {
-        "filter_id": 795,
         "id": 396,
-        "name": "Domestic Violence",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Domestic Violence"
     },
     {
-        "filter_id": 798,
         "id": 397,
-        "name": "Transformation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Transformation"
     },
     {
-        "filter_id": 801,
         "id": 398,
-        "name": "Adoption",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Adoption"
     },
     {
-        "filter_id": 802,
         "id": 399,
-        "name": "Stepmother",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Stepmother"
     },
     {
-        "filter_id": 808,
         "id": 400,
-        "name": "High School",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "High School"
     },
     {
-        "filter_id": 814,
         "id": 401,
-        "name": "Got7",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Got7"
     },
     {
-        "filter_id": 818,
         "id": 402,
-        "name": "sisterhood",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "sisterhood"
     },
     {
-        "filter_id": 823,
         "id": 403,
-        "name": "Death",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Death"
     },
     {
-        "filter_id": 826,
         "id": 404,
-        "name": "BTOB",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "BTOB"
     },
     {
-        "filter_id": 831,
         "id": 405,
-        "name": "Older Woman/Younger Man",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Older Woman/Younger Man"
     },
     {
-        "filter_id": 836,
         "id": 406,
-        "name": "beauty and makeup",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "beauty and makeup"
     },
     {
-        "filter_id": 837,
         "id": 407,
-        "name": "Exorcism",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Exorcism"
     },
     {
-        "filter_id": 838,
         "id": 408,
-        "name": "Sexual Content",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sexual Content"
     },
     {
-        "filter_id": 842,
         "id": 409,
-        "name": "Manga Artist",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Manga Artist"
     },
     {
-        "filter_id": 844,
         "id": 410,
-        "name": "adapted from a anime",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "adapted from a anime"
     },
     {
-        "filter_id": 845,
         "id": 411,
-        "name": "divorced couple",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "divorced couple"
     },
     {
-        "filter_id": 846,
         "id": 412,
-        "name": "Father-Son Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Father-Son Relationship"
     },
     {
-        "filter_id": 847,
         "id": 413,
-        "name": "Mother-Daughter Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mother-Daughter Relationship"
     },
     {
-        "filter_id": 848,
         "id": 414,
-        "name": "living with in-laws",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "living with in-laws"
     },
     {
-        "filter_id": 849,
         "id": 415,
-        "name": "Father-Daughter Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Father-Daughter Relationship"
     },
     {
-        "filter_id": 850,
         "id": 416,
-        "name": "Mother-Son Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mother-Son Relationship"
     },
     {
-        "filter_id": 851,
         "id": 417,
-        "name": "Body Transformation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Body Transformation"
     },
     {
-        "filter_id": 856,
         "id": 418,
-        "name": "Ghost-seeing Female Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Ghost-seeing Female Lead"
     },
     {
-        "filter_id": 857,
         "id": 419,
-        "name": "Beauty Pageant",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Beauty Pageant"
     },
     {
-        "filter_id": 861,
         "id": 420,
-        "name": "chuseok special",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "chuseok special"
     },
     {
-        "filter_id": 863,
         "id": 421,
-        "name": "chinese mythology",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "chinese mythology"
     },
     {
-        "filter_id": 867,
         "id": 422,
-        "name": "immortality",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "immortality"
     },
     {
-        "filter_id": 872,
         "id": 423,
-        "name": "pre-produced",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "pre-produced"
     },
     {
-        "filter_id": 875,
         "id": 424,
-        "name": "Prison Escape",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Prison Escape"
     },
     {
-        "filter_id": 877,
         "id": 425,
-        "name": "Arrogant Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Arrogant Male Lead"
     },
     {
-        "filter_id": 878,
         "id": 426,
-        "name": "gwanghaegun of joseon",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "gwanghaegun of joseon"
     },
     {
-        "filter_id": 882,
         "id": 427,
-        "name": "shogi",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "shogi"
     },
     {
-        "filter_id": 883,
         "id": 428,
-        "name": "Trauma",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Trauma"
     },
     {
-        "filter_id": 889,
         "id": 429,
-        "name": "drug",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "drug"
     },
     {
-        "filter_id": 893,
         "id": 430,
-        "name": "Western Series Remake",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Western Series Remake"
     },
     {
-        "filter_id": 895,
         "id": 431,
-        "name": "Deserted Island",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Deserted Island"
     },
     {
-        "filter_id": 896,
         "id": 432,
-        "name": "Survival",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Survival"
     },
     {
-        "filter_id": 898,
         "id": 433,
-        "name": "drama special season 5",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "drama special season 5"
     },
     {
-        "filter_id": 906,
         "id": 434,
-        "name": "Psychopath",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Psychopath"
     },
     {
-        "filter_id": 914,
         "id": 435,
-        "name": "Live Action",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Live Action"
     },
     {
-        "filter_id": 915,
         "id": 436,
-        "name": "Swimming",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Swimming"
     },
     {
-        "filter_id": 916,
         "id": 437,
-        "name": "poetry",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "poetry"
     },
     {
-        "filter_id": 917,
         "id": 438,
-        "name": "Street Fight",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Street Fight"
     },
     {
-        "filter_id": 927,
         "id": 439,
-        "name": "poor family",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "poor family"
     },
     {
-        "filter_id": 935,
         "id": 440,
-        "name": "adapted from a manhua",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "adapted from a manhua"
     },
     {
-        "filter_id": 937,
         "id": 441,
-        "name": "Teen Pregnancy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Teen Pregnancy"
     },
     {
-        "filter_id": 940,
         "id": 442,
-        "name": "Prodigy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Prodigy"
     },
     {
-        "filter_id": 941,
         "id": 443,
-        "name": "piano",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "piano"
     },
     {
-        "filter_id": 942,
         "id": 444,
-        "name": "Spy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Spy"
     },
     {
-        "filter_id": 944,
         "id": 445,
-        "name": "inspirational",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "inspirational"
     },
     {
-        "filter_id": 952,
         "id": 446,
-        "name": "Gambling",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gambling"
     },
     {
-        "filter_id": 953,
         "id": 447,
-        "name": "conspiracy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "conspiracy"
     },
     {
-        "filter_id": 955,
         "id": 448,
-        "name": "Super Junior",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Super Junior"
     },
     {
-        "filter_id": 958,
         "id": 449,
-        "name": "fake/pretend relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "fake/pretend relationship"
     },
     {
-        "filter_id": 959,
         "id": 450,
-        "name": "mahjong",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "mahjong"
     },
     {
-        "filter_id": 960,
         "id": 451,
-        "name": "Pretend Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Pretend Relationship"
     },
     {
-        "filter_id": 961,
         "id": 452,
-        "name": "Infidelity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Infidelity"
     },
     {
-        "filter_id": 962,
         "id": 453,
-        "name": "mobile drama",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "mobile drama"
     },
     {
-        "filter_id": 964,
         "id": 454,
-        "name": "Miniseries",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Miniseries"
     },
     {
-        "filter_id": 965,
         "id": 455,
-        "name": "Twice",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Twice"
     },
     {
-        "filter_id": 966,
         "id": 456,
-        "name": "keyakizaka46",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "keyakizaka46"
     },
     {
-        "filter_id": 969,
         "id": 457,
-        "name": "Criminal Profiler",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Criminal Profiler"
     },
     {
-        "filter_id": 971,
         "id": 458,
-        "name": "Hidden Identity",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hidden Identity"
     },
     {
-        "filter_id": 972,
         "id": 459,
-        "name": "Sibling Rivalry",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sibling Rivalry"
     },
     {
-        "filter_id": 975,
         "id": 460,
-        "name": "Tearjerker",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Tearjerker"
     },
     {
-        "filter_id": 976,
         "id": 461,
-        "name": "super sentai",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "super sentai"
     },
     {
-        "filter_id": 977,
         "id": 462,
-        "name": "Abuse",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Abuse"
     },
     {
-        "filter_id": 979,
         "id": 463,
-        "name": "novoland",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "novoland"
     },
     {
-        "filter_id": 980,
         "id": 464,
-        "name": "Qin Dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Qin Dynasty"
     },
     {
-        "filter_id": 982,
         "id": 465,
-        "name": "short movie",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "short movie"
     },
     {
-        "filter_id": 983,
         "id": 466,
-        "name": "teen dating",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "teen dating"
     },
     {
-        "filter_id": 993,
         "id": 467,
-        "name": "Police Procedural",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Police Procedural"
     },
     {
-        "filter_id": 994,
         "id": 468,
-        "name": "classic",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "classic"
     },
     {
-        "filter_id": 995,
         "id": 469,
-        "name": "One-night stand",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "One-night stand"
     },
     {
-        "filter_id": 996,
         "id": 470,
-        "name": "living together",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "living together"
     },
     {
-        "filter_id": 998,
         "id": 471,
-        "name": "mountain climbing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "mountain climbing"
     },
     {
-        "filter_id": 1001,
         "id": 472,
-        "name": "Smart Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Smart Male Lead"
     },
     {
-        "filter_id": 1008,
         "id": 473,
-        "name": "Hacker",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hacker"
     },
     {
-        "filter_id": 1011,
         "id": 474,
-        "name": "Slice of Life",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Slice of Life"
     },
     {
-        "filter_id": 1014,
         "id": 475,
-        "name": "illegal immigration",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "illegal immigration"
     },
     {
-        "filter_id": 1015,
         "id": 476,
-        "name": "Boxing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Boxing"
     },
     {
-        "filter_id": 1017,
         "id": 477,
-        "name": "Undercover Agent",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Undercover Agent"
     },
     {
-        "filter_id": 1018,
         "id": 478,
-        "name": "Qing Dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Qing Dynasty"
     },
     {
-        "filter_id": 1024,
         "id": 479,
-        "name": "edo period",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "edo period"
     },
     {
-        "filter_id": 1025,
         "id": 480,
-        "name": "social issues",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "social issues"
     },
     {
-        "filter_id": 1030,
         "id": 481,
-        "name": "earthquake",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "earthquake"
     },
     {
-        "filter_id": 1033,
         "id": 482,
-        "name": "Wedding",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Wedding"
     },
     {
-        "filter_id": 1038,
         "id": 483,
-        "name": "Plastic Surgery",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Plastic Surgery"
     },
     {
-        "filter_id": 1039,
         "id": 484,
-        "name": "cat",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "cat"
     },
     {
-        "filter_id": 1042,
         "id": 485,
-        "name": "K-Pop",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "K-Pop"
     },
     {
-        "filter_id": 1043,
         "id": 486,
-        "name": "Three Kingdoms",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Three Kingdoms"
     },
     {
-        "filter_id": 1045,
         "id": 487,
-        "name": "LGBTQ+",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "LGBTQ+"
     },
     {
-        "filter_id": 1047,
         "id": 488,
-        "name": "Black Comedy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Black Comedy"
     },
     {
-        "filter_id": 1051,
         "id": 489,
-        "name": "Child Abandonment",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Child Abandonment"
     },
     {
-        "filter_id": 1053,
         "id": 490,
-        "name": "Traveling",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Traveling"
     },
     {
-        "filter_id": 1054,
         "id": 491,
-        "name": "Foreigner",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Foreigner"
     },
     {
-        "filter_id": 1056,
         "id": 492,
-        "name": "indie",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "indie"
     },
     {
-        "filter_id": 1057,
         "id": 493,
-        "name": "Blackmail",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Blackmail"
     },
     {
-        "filter_id": 1060,
         "id": 494,
-        "name": "career",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "career"
     },
     {
-        "filter_id": 1061,
         "id": 495,
-        "name": "Gisaeng",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gisaeng"
     },
     {
-        "filter_id": 1068,
         "id": 496,
-        "name": "natural disaster",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "natural disaster"
     },
     {
-        "filter_id": 1071,
         "id": 497,
-        "name": "Terrorist",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Terrorist"
     },
     {
-        "filter_id": 1072,
         "id": 498,
-        "name": "death game",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "death game"
     },
     {
-        "filter_id": 1077,
         "id": 499,
-        "name": "Multiple Mains",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Multiple Mains"
     },
     {
-        "filter_id": 1081,
         "id": 500,
-        "name": "aliens",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "aliens"
     },
     {
-        "filter_id": 1083,
         "id": 501,
-        "name": "cops vs criminals",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "cops vs criminals"
     },
     {
-        "filter_id": 1092,
         "id": 502,
-        "name": "Aloof Character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Aloof Character"
     },
     {
-        "filter_id": 1097,
         "id": 503,
-        "name": "Teacher",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Teacher"
     },
     {
-        "filter_id": 1098,
         "id": 504,
-        "name": "Dream",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Dream"
     },
     {
-        "filter_id": 1101,
         "id": 505,
-        "name": "band",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "band"
     },
     {
-        "filter_id": 1102,
         "id": 506,
-        "name": "Butler",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Butler"
     },
     {
-        "filter_id": 1103,
         "id": 507,
-        "name": "Clone",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Clone"
     },
     {
-        "filter_id": 1105,
         "id": 508,
-        "name": "morning drama",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "morning drama"
     },
     {
-        "filter_id": 1107,
         "id": 509,
-        "name": "Lawyer",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Lawyer"
     },
     {
-        "filter_id": 1108,
         "id": 510,
-        "name": "Miscarriage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Miscarriage"
     },
     {
-        "filter_id": 1116,
         "id": 511,
-        "name": "Biographical",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Biographical"
     },
     {
-        "filter_id": 1120,
         "id": 512,
-        "name": "Multi-Generational",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Multi-Generational"
     },
     {
-        "filter_id": 1121,
         "id": 513,
-        "name": "Jealousy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Jealousy"
     },
     {
-        "filter_id": 1122,
         "id": 514,
-        "name": "woman detective",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "woman detective"
     },
     {
-        "filter_id": 1124,
         "id": 515,
-        "name": "ultraman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "ultraman"
     },
     {
-        "filter_id": 1141,
         "id": 516,
-        "name": "book",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "book"
     },
     {
-        "filter_id": 1142,
         "id": 517,
-        "name": "bookstore",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "bookstore"
     },
     {
-        "filter_id": 1148,
         "id": 518,
-        "name": "railway driver",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "railway driver"
     },
     {
-        "filter_id": 1149,
         "id": 519,
-        "name": "Show business",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Show business"
     },
     {
-        "filter_id": 1153,
         "id": 520,
-        "name": "Basketball",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Basketball"
     },
     {
-        "filter_id": 1154,
         "id": 521,
-        "name": "Torture",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Torture"
     },
     {
-        "filter_id": 1158,
         "id": 522,
-        "name": "Mafia",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mafia"
     },
     {
-        "filter_id": 1159,
         "id": 523,
-        "name": "Workplace",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Workplace"
     },
     {
-        "filter_id": 1161,
         "id": 524,
-        "name": "Theater",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Theater"
     },
     {
-        "filter_id": 1162,
         "id": 525,
-        "name": "Single Parent",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Single Parent"
     },
     {
-        "filter_id": 1164,
         "id": 526,
-        "name": "arts",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "arts"
     },
     {
-        "filter_id": 1165,
         "id": 527,
-        "name": "art",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "art"
     },
     {
-        "filter_id": 1167,
         "id": 528,
-        "name": "island",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "island"
     },
     {
-        "filter_id": 1169,
         "id": 529,
-        "name": "world war ii",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "world war ii"
     },
     {
-        "filter_id": 1170,
         "id": 530,
-        "name": "World War 2",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "World War 2"
     },
     {
-        "filter_id": 1171,
         "id": 531,
-        "name": "Secret Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Secret Relationship"
     },
     {
-        "filter_id": 1175,
         "id": 532,
-        "name": "Ming Dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Ming Dynasty"
     },
     {
-        "filter_id": 1177,
         "id": 533,
-        "name": "sino-japanese war",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "sino-japanese war"
     },
     {
-        "filter_id": 1178,
         "id": 534,
-        "name": "interview",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "interview"
     },
     {
-        "filter_id": 1179,
         "id": 535,
-        "name": "behind the scenes",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "behind the scenes"
     },
     {
-        "filter_id": 1183,
         "id": 536,
-        "name": "Deafness",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Deafness"
     },
     {
-        "filter_id": 1184,
         "id": 537,
-        "name": "Muteness",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Muteness"
     },
     {
-        "filter_id": 1185,
         "id": 538,
-        "name": "surgeon",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "surgeon"
     },
     {
-        "filter_id": 1195,
         "id": 539,
-        "name": "Delinquent",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Delinquent"
     },
     {
-        "filter_id": 1196,
         "id": 540,
-        "name": "monster",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "monster"
     },
     {
-        "filter_id": 1200,
         "id": 541,
-        "name": "Elementary School",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Elementary School"
     },
     {
-        "filter_id": 1209,
         "id": 542,
-        "name": "Christmas",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Christmas"
     },
     {
-        "filter_id": 1210,
         "id": 543,
-        "name": "rock",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "rock"
     },
     {
-        "filter_id": 1214,
         "id": 544,
-        "name": "Married Couple",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Married Couple"
     },
     {
-        "filter_id": 1216,
         "id": 545,
-        "name": "prosecutor",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "prosecutor"
     },
     {
-        "filter_id": 1217,
         "id": 546,
-        "name": "Musical",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Musical"
     },
     {
-        "filter_id": 1219,
         "id": 547,
-        "name": "Xianxia",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Xianxia"
     },
     {
-        "filter_id": 1223,
         "id": 548,
-        "name": "biography",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "biography"
     },
     {
-        "filter_id": 1224,
         "id": 549,
-        "name": "Poor Female Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Poor Female Lead"
     },
     {
-        "filter_id": 1227,
         "id": 550,
-        "name": "Virus",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Virus"
     },
     {
-        "filter_id": 1229,
         "id": 551,
-        "name": "Aviation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Aviation"
     },
     {
-        "filter_id": 1232,
         "id": 552,
-        "name": "Sexual Abuse",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sexual Abuse"
     },
     {
-        "filter_id": 1237,
         "id": 553,
-        "name": "dog",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "dog"
     },
     {
-        "filter_id": 1238,
         "id": 554,
-        "name": "Short Film",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Short Film"
     },
     {
-        "filter_id": 1241,
         "id": 555,
-        "name": "Healing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Healing"
     },
     {
-        "filter_id": 1247,
         "id": 556,
-        "name": "Geisha",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Geisha"
     },
     {
-        "filter_id": 1248,
         "id": 557,
-        "name": "ninja",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "ninja"
     },
     {
-        "filter_id": 1250,
         "id": 558,
-        "name": "Separation At Birth",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Separation At Birth"
     },
     {
-        "filter_id": 1251,
         "id": 559,
-        "name": "human drama",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "human drama"
     },
     {
-        "filter_id": 1252,
         "id": 560,
-        "name": "Showa Era",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Showa Era"
     },
     {
-        "filter_id": 1256,
         "id": 561,
-        "name": "Costume",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Costume"
     },
     {
-        "filter_id": 1257,
         "id": 562,
-        "name": "Photography",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Photography"
     },
     {
-        "filter_id": 1258,
         "id": 563,
-        "name": "Forced Marriage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Forced Marriage"
     },
     {
-        "filter_id": 1262,
         "id": 564,
-        "name": "Hospital",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hospital"
     },
     {
-        "filter_id": 1263,
         "id": 565,
-        "name": "Doctor",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Doctor"
     },
     {
-        "filter_id": 1265,
         "id": 566,
-        "name": "Love At First Sight",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Love At First Sight"
     },
     {
-        "filter_id": 1277,
         "id": 567,
-        "name": "Cold Woman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Cold Woman"
     },
     {
-        "filter_id": 1281,
         "id": 568,
-        "name": "Countryside",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Countryside"
     },
     {
-        "filter_id": 1282,
         "id": 569,
-        "name": "Nurse",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Nurse"
     },
     {
-        "filter_id": 1283,
         "id": 570,
-        "name": "outer space",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "outer space"
     },
     {
-        "filter_id": 1286,
         "id": 571,
-        "name": "cheerleading",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "cheerleading"
     },
     {
-        "filter_id": 1290,
         "id": 572,
-        "name": "pure love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "pure love"
     },
     {
-        "filter_id": 1292,
         "id": 573,
-        "name": "Police Officer",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Police Officer"
     },
     {
-        "filter_id": 1295,
         "id": 574,
-        "name": "china republican era",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "china republican era"
     },
     {
-        "filter_id": 1296,
         "id": 575,
-        "name": "black and white",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "black and white"
     },
     {
-        "filter_id": 1302,
         "id": 576,
-        "name": "Office Worker",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Office Worker"
     },
     {
-        "filter_id": 1303,
         "id": 577,
-        "name": "leadership",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "leadership"
     },
     {
-        "filter_id": 1304,
         "id": 578,
-        "name": "Betrayal",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Betrayal"
     },
     {
-        "filter_id": 1310,
         "id": 579,
-        "name": "school dorm",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "school dorm"
     },
     {
-        "filter_id": 1325,
         "id": 580,
-        "name": "Miryang Gang Rape",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Miryang Gang Rape"
     },
     {
-        "filter_id": 1327,
         "id": 581,
-        "name": "Heir",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Heir"
     },
     {
-        "filter_id": 1328,
         "id": 582,
-        "name": "Radio",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Radio"
     },
     {
-        "filter_id": 1329,
         "id": 583,
-        "name": "Opposites Attract",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Opposites Attract"
     },
     {
-        "filter_id": 1330,
         "id": 584,
-        "name": "Wrestling",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Wrestling"
     },
     {
-        "filter_id": 1332,
         "id": 585,
-        "name": "magazine",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "magazine"
     },
     {
-        "filter_id": 1333,
         "id": 586,
-        "name": "Interracial",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Interracial"
     },
     {
-        "filter_id": 1334,
         "id": 587,
-        "name": "Taisho period",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Taisho period"
     },
     {
-        "filter_id": 1338,
         "id": 588,
-        "name": "Rakugo",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Rakugo"
     },
     {
-        "filter_id": 1343,
         "id": 589,
-        "name": "Singing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Singing"
     },
     {
-        "filter_id": 1344,
         "id": 590,
-        "name": "Baking",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Baking"
     },
     {
-        "filter_id": 1346,
         "id": 591,
-        "name": "chef",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "chef"
     },
     {
-        "filter_id": 1347,
         "id": 592,
-        "name": "film industry",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "film industry"
     },
     {
-        "filter_id": 1352,
         "id": 593,
-        "name": "screenwriter",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "screenwriter"
     },
     {
-        "filter_id": 1353,
         "id": 594,
-        "name": "Post-Occupation Japan",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Post-Occupation Japan"
     },
     {
-        "filter_id": 1359,
         "id": 595,
-        "name": "Soulmates",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Soulmates"
     },
     {
-        "filter_id": 1361,
         "id": 596,
-        "name": "meiji period",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "meiji period"
     },
     {
-        "filter_id": 1367,
         "id": 597,
-        "name": "news station",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "news station"
     },
     {
-        "filter_id": 1369,
         "id": 598,
-        "name": "Volleyball",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Volleyball"
     },
     {
-        "filter_id": 1370,
         "id": 599,
-        "name": "siblings",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "siblings"
     },
     {
-        "filter_id": 1371,
         "id": 600,
-        "name": "Fantasy World",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Fantasy World"
     },
     {
-        "filter_id": 1372,
         "id": 601,
-        "name": "silent film",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "silent film"
     },
     {
-        "filter_id": 1375,
         "id": 602,
-        "name": "satirical",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "satirical"
     },
     {
-        "filter_id": 1377,
         "id": 603,
-        "name": "disabled character",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "disabled character"
     },
     {
-        "filter_id": 1379,
         "id": 604,
-        "name": "stockholm syndrome",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "stockholm syndrome"
     },
     {
-        "filter_id": 1381,
         "id": 605,
-        "name": "Omnibus",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Omnibus"
     },
     {
-        "filter_id": 1391,
         "id": 606,
-        "name": "Disease",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Disease"
     },
     {
-        "filter_id": 1404,
         "id": 607,
-        "name": "dance competition",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "dance competition"
     },
     {
-        "filter_id": 1407,
         "id": 608,
-        "name": "Sword-fight",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sword-fight"
     },
     {
-        "filter_id": 1410,
         "id": 609,
-        "name": "religion",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "religion"
     },
     {
-        "filter_id": 1412,
         "id": 610,
-        "name": "Tang Dynasty",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Tang Dynasty"
     },
     {
-        "filter_id": 1415,
         "id": 611,
-        "name": "Hate to Love Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hate to Love Relationship"
     },
     {
-        "filter_id": 1416,
         "id": 612,
-        "name": "Older Man/Younger Woman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Older Man/Younger Woman"
     },
     {
-        "filter_id": 1419,
         "id": 613,
-        "name": "Taiga",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Taiga"
     },
     {
-        "filter_id": 1423,
         "id": 614,
-        "name": "letter",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "letter"
     },
     {
-        "filter_id": 1424,
         "id": 615,
-        "name": "based on a song",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "based on a song"
     },
     {
-        "filter_id": 1427,
         "id": 616,
-        "name": "disappearance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "disappearance"
     },
     {
-        "filter_id": 1430,
         "id": 617,
-        "name": "florist",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "florist"
     },
     {
-        "filter_id": 1431,
         "id": 618,
-        "name": "Award-Winning",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Award-Winning"
     },
     {
-        "filter_id": 1438,
         "id": 619,
-        "name": "super power",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "super power"
     },
     {
-        "filter_id": 1452,
         "id": 620,
-        "name": "gay relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "gay relationship"
     },
     {
-        "filter_id": 1453,
         "id": 621,
-        "name": "Lesbian Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Lesbian Relationship"
     },
     {
-        "filter_id": 1456,
         "id": 622,
-        "name": "different timelines",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "different timelines"
     },
     {
-        "filter_id": 1457,
         "id": 623,
-        "name": "past and present",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "past and present"
     },
     {
-        "filter_id": 1459,
         "id": 624,
-        "name": "destiny",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "destiny"
     },
     {
-        "filter_id": 1466,
         "id": 625,
-        "name": "racing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "racing"
     },
     {
-        "filter_id": 1467,
         "id": 626,
-        "name": "car racing",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "car racing"
     },
     {
-        "filter_id": 1470,
         "id": 627,
-        "name": "Family Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Family Relationship"
     },
     {
-        "filter_id": 1485,
         "id": 628,
-        "name": "news anchor",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "news anchor"
     },
     {
-        "filter_id": 1488,
         "id": 629,
-        "name": "teacher/student",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "teacher/student"
     },
     {
-        "filter_id": 1492,
         "id": 630,
-        "name": "teen",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "teen"
     },
     {
-        "filter_id": 1498,
         "id": 631,
-        "name": "roadtrip",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "roadtrip"
     },
     {
-        "filter_id": 1502,
         "id": 632,
-        "name": "Power Struggle",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Power Struggle"
     },
     {
-        "filter_id": 1505,
         "id": 633,
-        "name": "second chances",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "second chances"
     },
     {
-        "filter_id": 1509,
         "id": 634,
-        "name": "Depression",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Depression"
     },
     {
-        "filter_id": 1511,
         "id": 635,
-        "name": "Drama Stage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Drama Stage"
     },
     {
-        "filter_id": 1512,
         "id": 636,
-        "name": "Unexpected Pregnancy",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Unexpected Pregnancy"
     },
     {
-        "filter_id": 1518,
         "id": 637,
-        "name": "wife trilogy (series)",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "wife trilogy (series)"
     },
     {
-        "filter_id": 1519,
         "id": 638,
-        "name": "heaven trilogy (series)",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "heaven trilogy (series)"
     },
     {
-        "filter_id": 1520,
         "id": 639,
-        "name": "manga adaptation",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "manga adaptation"
     },
     {
-        "filter_id": 1522,
         "id": 640,
-        "name": "Neighbours",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Neighbours"
     },
     {
-        "filter_id": 1525,
         "id": 641,
-        "name": "Independent Film",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Independent Film"
     },
     {
-        "filter_id": 1535,
         "id": 642,
-        "name": "Possessive male lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Possessive male lead"
     },
     {
-        "filter_id": 1536,
         "id": 643,
-        "name": "restaurant",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "restaurant"
     },
     {
-        "filter_id": 1539,
         "id": 644,
-        "name": "Emotional Abuse",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Emotional Abuse"
     },
     {
-        "filter_id": 1540,
         "id": 645,
-        "name": "ice hockey",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "ice hockey"
     },
     {
-        "filter_id": 1547,
         "id": 646,
-        "name": "1950s",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "1950s"
     },
     {
-        "filter_id": 1548,
         "id": 647,
-        "name": "adopted siblings love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "adopted siblings love"
     },
     {
-        "filter_id": 1559,
         "id": 648,
-        "name": "Abusive Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Abusive Male Lead"
     },
     {
-        "filter_id": 1565,
         "id": 649,
-        "name": "Funeral",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Funeral"
     },
     {
-        "filter_id": 1577,
         "id": 650,
-        "name": "Naive female lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Naive female lead"
     },
     {
-        "filter_id": 1580,
         "id": 651,
-        "name": "Roman Porno Reboot Project",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Roman Porno Reboot Project"
     },
     {
-        "filter_id": 1589,
         "id": 652,
-        "name": "Folklore",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Folklore"
     },
     {
-        "filter_id": 1595,
         "id": 653,
-        "name": "pandemic",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "pandemic"
     },
     {
-        "filter_id": 1597,
         "id": 654,
-        "name": "Guy Chases Girl First",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Guy Chases Girl First"
     },
     {
-        "filter_id": 1606,
         "id": 655,
-        "name": "Failing Marriage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Failing Marriage"
     },
     {
-        "filter_id": 1610,
         "id": 656,
-        "name": "Fraud",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Fraud"
     },
     {
-        "filter_id": 1613,
         "id": 657,
-        "name": "forensic",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "forensic"
     },
     {
-        "filter_id": 1620,
         "id": 658,
-        "name": "Superhero",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Superhero"
     },
     {
-        "filter_id": 1629,
         "id": 659,
-        "name": "feudal japan",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "feudal japan"
     },
     {
-        "filter_id": 1644,
         "id": 660,
-        "name": "Playboy Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Playboy Male Lead"
     },
     {
-        "filter_id": 1645,
         "id": 661,
-        "name": "Fake Marriage",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Fake Marriage"
     },
     {
-        "filter_id": 1646,
         "id": 662,
-        "name": "Rich Female Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Rich Female Lead"
     },
     {
-        "filter_id": 1648,
         "id": 663,
-        "name": "School Club",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "School Club"
     },
     {
-        "filter_id": 1651,
         "id": 664,
-        "name": "veterinarian",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "veterinarian"
     },
     {
-        "filter_id": 1670,
         "id": 665,
-        "name": "Fantasy Kingdom",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Fantasy Kingdom"
     },
     {
-        "filter_id": 1684,
         "id": 666,
-        "name": "Happy Ending",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Happy Ending"
     },
     {
-        "filter_id": 1685,
         "id": 667,
-        "name": "Ambiguous Ending",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Ambiguous Ending"
     },
     {
-        "filter_id": 1686,
         "id": 668,
-        "name": "Bittersweet Ending",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Bittersweet Ending"
     },
     {
-        "filter_id": 1694,
         "id": 669,
-        "name": "Republican Era",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Republican Era"
     },
     {
-        "filter_id": 1696,
         "id": 670,
-        "name": "Accident",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Accident"
     },
     {
-        "filter_id": 1712,
         "id": 671,
-        "name": "Gyaru",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gyaru"
     },
     {
-        "filter_id": 1714,
         "id": 672,
-        "name": "compensated dating",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "compensated dating"
     },
     {
-        "filter_id": 1717,
         "id": 673,
-        "name": "Female Rivalry",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Female Rivalry"
     },
     {
-        "filter_id": 1718,
         "id": 674,
-        "name": "Nice Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Nice Male Lead"
     },
     {
-        "filter_id": 1728,
         "id": 675,
-        "name": "university",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "university"
     },
     {
-        "filter_id": 1764,
         "id": 676,
-        "name": "Sweet Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sweet Male Lead"
     },
     {
-        "filter_id": 1765,
         "id": 677,
-        "name": "Team mates",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Team mates"
     },
     {
-        "filter_id": 1770,
         "id": 678,
-        "name": "Player male lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Player male lead"
     },
     {
-        "filter_id": 1774,
         "id": 679,
-        "name": "Forbidden Love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Forbidden Love"
     },
     {
-        "filter_id": 1781,
         "id": 680,
-        "name": "One sided love",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "One sided love"
     },
     {
-        "filter_id": 1794,
         "id": 681,
-        "name": "Nogizaka46",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Nogizaka46"
     },
     {
-        "filter_id": 1828,
         "id": 682,
-        "name": "Colleagues",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Colleagues"
     },
     {
-        "filter_id": 1838,
         "id": 683,
-        "name": "Housekeeper",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Housekeeper"
     },
     {
-        "filter_id": 1862,
         "id": 684,
-        "name": "Boran",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Boran"
     },
     {
-        "filter_id": 1872,
         "id": 685,
-        "name": "Soccer",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Soccer"
     },
     {
-        "filter_id": 1880,
         "id": 686,
-        "name": "Mukbang",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Mukbang"
     },
     {
-        "filter_id": 1886,
         "id": 687,
-        "name": "Gynecology",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Gynecology"
     },
     {
-        "filter_id": 1888,
         "id": 688,
-        "name": "babies",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "babies"
     },
     {
-        "filter_id": 1896,
         "id": 689,
-        "name": "emergency service",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "emergency service"
     },
     {
-        "filter_id": 1910,
         "id": 690,
-        "name": "Chinese Opera",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Chinese Opera"
     },
     {
-        "filter_id": 1928,
         "id": 691,
-        "name": "Strong Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Strong Male Lead"
     },
     {
-        "filter_id": 1946,
         "id": 692,
-        "name": "Drama Special Season 9",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Drama Special Season 9"
     },
     {
-        "filter_id": 1947,
         "id": 693,
-        "name": "Priest",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Priest"
     },
     {
-        "filter_id": 1948,
         "id": 694,
-        "name": "Shamanism",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Shamanism"
     },
     {
-        "filter_id": 1969,
         "id": 695,
-        "name": "Drama Special Season 1",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Drama Special Season 1"
     },
     {
-        "filter_id": 1970,
         "id": 696,
-        "name": "Drama Special Series 1",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Drama Special Series 1"
     },
     {
-        "filter_id": 1971,
         "id": 697,
-        "name": "Drama Special Season 6",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Drama Special Season 6"
     },
     {
-        "filter_id": 1980,
         "id": 698,
-        "name": "Sewol Ferry Disaster",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Sewol Ferry Disaster"
     },
     {
-        "filter_id": 1983,
         "id": 699,
-        "name": "Hello Stranger series",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hello Stranger series"
     },
     {
-        "filter_id": 1984,
         "id": 700,
-        "name": "Hidden Personality",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hidden Personality"
     },
     {
-        "filter_id": 2017,
         "id": 701,
-        "name": "mail-to-order shopping",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "mail-to-order shopping"
     },
     {
-        "filter_id": 2024,
         "id": 702,
-        "name": "kurata - Uta-garuta",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "kurata - Uta-garuta"
     },
     {
-        "filter_id": 2028,
         "id": 703,
-        "name": "Charming Male Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Charming Male Lead"
     },
     {
-        "filter_id": 2029,
         "id": 704,
-        "name": "Time Jump Happy Ending",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Time Jump Happy Ending"
     },
     {
-        "filter_id": 2030,
         "id": 705,
-        "name": "Airhead Female Lead",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Airhead Female Lead"
     },
     {
-        "filter_id": 2032,
         "id": 706,
-        "name": "Minimal Romance",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Minimal Romance"
     },
     {
-        "filter_id": 2033,
         "id": 707,
-        "name": "High School to Working Life",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "High School to Working Life"
     },
     {
-        "filter_id": 2039,
         "id": 708,
-        "name": "Open Ending",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Open Ending"
     },
     {
-        "filter_id": 2042,
         "id": 709,
-        "name": "Bantering Relationship",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Bantering Relationship"
     },
     {
-        "filter_id": 2049,
         "id": 710,
-        "name": "Hitman",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Hitman"
     },
     {
-        "filter_id": 2050,
         "id": 711,
-        "name": "Higashino Keigo",
-        "slug": "",
-        "filterType": "TAG"
+        "name": "Higashino Keigo"
     }
 ]
