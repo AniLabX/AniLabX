@@ -1,0 +1,2674 @@
+[
+    {
+        "id": 44,
+        "name": "Food"
+    },
+    {
+        "id": 45,
+        "name": "Military"
+    },
+    {
+        "id": 46,
+        "name": "Friendship"
+    },
+    {
+        "id": 47,
+        "name": "Music"
+    },
+    {
+        "id": 48,
+        "name": "Historical"
+    },
+    {
+        "id": 49,
+        "name": "Mystery"
+    },
+    {
+        "id": 50,
+        "name": "Tokusatsu"
+    },
+    {
+        "id": 51,
+        "name": "Business"
+    },
+    {
+        "id": 52,
+        "name": "Vampire"
+    },
+    {
+        "id": 53,
+        "name": "Comedy"
+    },
+    {
+        "id": 54,
+        "name": "Romance"
+    },
+    {
+        "id": 55,
+        "name": "Crime"
+    },
+    {
+        "id": 56,
+        "name": "School"
+    },
+    {
+        "id": 57,
+        "name": "Youth"
+    },
+    {
+        "id": 58,
+        "name": "Family"
+    },
+    {
+        "id": 59,
+        "name": "Sports"
+    },
+    {
+        "id": 60,
+        "name": "Supernatural"
+    },
+    {
+        "id": 61,
+        "name": "Detective"
+    },
+    {
+        "id": 62,
+        "name": "Tragedy"
+    },
+    {
+        "id": 63,
+        "name": "Mature"
+    },
+    {
+        "id": 64,
+        "name": "Investigation"
+    },
+    {
+        "id": 65,
+        "name": "manga"
+    },
+    {
+        "id": 66,
+        "name": "anime"
+    },
+    {
+        "id": 67,
+        "name": "variety"
+    },
+    {
+        "id": 68,
+        "name": "Game Show"
+    },
+    {
+        "id": 69,
+        "name": "celebrities"
+    },
+    {
+        "id": 70,
+        "name": "stand up comedy"
+    },
+    {
+        "id": 71,
+        "name": "Cult"
+    },
+    {
+        "id": 72,
+        "name": "Inspired by Real Events"
+    },
+    {
+        "id": 73,
+        "name": "Alien"
+    },
+    {
+        "id": 74,
+        "name": "Prison"
+    },
+    {
+        "id": 75,
+        "name": "Serial Killer"
+    },
+    {
+        "id": 76,
+        "name": "Reality Show"
+    },
+    {
+        "id": 77,
+        "name": "Idol Actor"
+    },
+    {
+        "id": 78,
+        "name": "music show"
+    },
+    {
+        "id": 79,
+        "name": "Talk Show"
+    },
+    {
+        "id": 80,
+        "name": "reality"
+    },
+    {
+        "id": 81,
+        "name": "outdoor variety shows"
+    },
+    {
+        "id": 82,
+        "name": "music-reality show"
+    },
+    {
+        "id": 83,
+        "name": "Competition"
+    },
+    {
+        "id": 84,
+        "name": "Time Travel"
+    },
+    {
+        "id": 85,
+        "name": "Grim Reaper"
+    },
+    {
+        "id": 86,
+        "name": "Bromance"
+    },
+    {
+        "id": 87,
+        "name": "survival show"
+    },
+    {
+        "id": 88,
+        "name": "BTS"
+    },
+    {
+        "id": 89,
+        "name": "Suicide"
+    },
+    {
+        "id": 90,
+        "name": "Disaster"
+    },
+    {
+        "id": 91,
+        "name": "Sexual Assault"
+    },
+    {
+        "id": 92,
+        "name": "Based on true story"
+    },
+    {
+        "id": 93,
+        "name": "deaf character"
+    },
+    {
+        "id": 94,
+        "name": "based on true event"
+    },
+    {
+        "id": 95,
+        "name": "Lesbian Character"
+    },
+    {
+        "id": 96,
+        "name": "Love Triangle"
+    },
+    {
+        "id": 97,
+        "name": "God"
+    },
+    {
+        "id": 98,
+        "name": "Adapted from a webtoon"
+    },
+    {
+        "id": 99,
+        "name": "Noir"
+    },
+    {
+        "id": 100,
+        "name": "Gay Character"
+    },
+    {
+        "id": 101,
+        "name": "Cross Dressing"
+    },
+    {
+        "id": 102,
+        "name": "Adapted From A Manga"
+    },
+    {
+        "id": 103,
+        "name": "Body Swap"
+    },
+    {
+        "id": 104,
+        "name": "Joseon Dynasty"
+    },
+    {
+        "id": 105,
+        "name": "Ghost(s)"
+    },
+    {
+        "id": 106,
+        "name": "Goryeo Dynasty"
+    },
+    {
+        "id": 107,
+        "name": "Gwangjong of Goryeo"
+    },
+    {
+        "id": 108,
+        "name": "Adapted From A Novel"
+    },
+    {
+        "id": 109,
+        "name": "apocalypse"
+    },
+    {
+        "id": 110,
+        "name": "School Bullying"
+    },
+    {
+        "id": 111,
+        "name": "music competition"
+    },
+    {
+        "id": 112,
+        "name": "drug smuggling"
+    },
+    {
+        "id": 113,
+        "name": "Filmed Abroad"
+    },
+    {
+        "id": 114,
+        "name": "Ballet"
+    },
+    {
+        "id": 115,
+        "name": "rap"
+    },
+    {
+        "id": 116,
+        "name": "sex"
+    },
+    {
+        "id": 117,
+        "name": "talk-variety"
+    },
+    {
+        "id": 118,
+        "name": "Pregnancy"
+    },
+    {
+        "id": 119,
+        "name": "chaebol"
+    },
+    {
+        "id": 120,
+        "name": "Marriage"
+    },
+    {
+        "id": 121,
+        "name": "Unrequited Love"
+    },
+    {
+        "id": 122,
+        "name": "survival competition"
+    },
+    {
+        "id": 123,
+        "name": "takumi-kun series"
+    },
+    {
+        "id": 124,
+        "name": "Mental Health"
+    },
+    {
+        "id": 125,
+        "name": "First Love"
+    },
+    {
+        "id": 126,
+        "name": "Host club"
+    },
+    {
+        "id": 127,
+        "name": "travel show"
+    },
+    {
+        "id": 128,
+        "name": "Clingy Male Lead"
+    },
+    {
+        "id": 129,
+        "name": "Rich Male Lead"
+    },
+    {
+        "id": 130,
+        "name": "Poor Male Lead"
+    },
+    {
+        "id": 131,
+        "name": "Extreme Violence"
+    },
+    {
+        "id": 132,
+        "name": "confused male lead"
+    },
+    {
+        "id": 133,
+        "name": "Prostitution"
+    },
+    {
+        "id": 134,
+        "name": "Unhealthy Relationship"
+    },
+    {
+        "id": 135,
+        "name": "captivity"
+    },
+    {
+        "id": 136,
+        "name": "Incest"
+    },
+    {
+        "id": 137,
+        "name": "Cooking"
+    },
+    {
+        "id": 138,
+        "name": "Idol"
+    },
+    {
+        "id": 139,
+        "name": "Variety Show"
+    },
+    {
+        "id": 140,
+        "name": "Hwaseong Serial Murders"
+    },
+    {
+        "id": 141,
+        "name": "Sexual Innuendo"
+    },
+    {
+        "id": 142,
+        "name": "quiz show"
+    },
+    {
+        "id": 143,
+        "name": "Rich man/Poor woman"
+    },
+    {
+        "id": 144,
+        "name": "Celebrity"
+    },
+    {
+        "id": 145,
+        "name": "Amnesia"
+    },
+    {
+        "id": 146,
+        "name": "Arranged Marriage"
+    },
+    {
+        "id": 147,
+        "name": "Age Gap"
+    },
+    {
+        "id": 148,
+        "name": "Reincarnation"
+    },
+    {
+        "id": 149,
+        "name": "crown prince"
+    },
+    {
+        "id": 150,
+        "name": "Love–Hate Relationship"
+    },
+    {
+        "id": 151,
+        "name": "espionage"
+    },
+    {
+        "id": 152,
+        "name": "Hidden Relationship"
+    },
+    {
+        "id": 153,
+        "name": "Childhood Friends"
+    },
+    {
+        "id": 154,
+        "name": "Character Development"
+    },
+    {
+        "id": 155,
+        "name": "riches to rags"
+    },
+    {
+        "id": 156,
+        "name": "tragic past"
+    },
+    {
+        "id": 157,
+        "name": "Double Identity"
+    },
+    {
+        "id": 158,
+        "name": "Female chases male first"
+    },
+    {
+        "id": 159,
+        "name": "Cold man"
+    },
+    {
+        "id": 160,
+        "name": "blunt woman"
+    },
+    {
+        "id": 161,
+        "name": "Nice Male Lead"
+    },
+    {
+        "id": 162,
+        "name": "Strong Girl"
+    },
+    {
+        "id": 163,
+        "name": "College Life"
+    },
+    {
+        "id": 164,
+        "name": "Office Romance"
+    },
+    {
+        "id": 165,
+        "name": "Woman Loves Eating"
+    },
+    {
+        "id": 166,
+        "name": "Innocent Female Lead"
+    },
+    {
+        "id": 167,
+        "name": "adopted child"
+    },
+    {
+        "id": 168,
+        "name": "lost child"
+    },
+    {
+        "id": 169,
+        "name": "confident man"
+    },
+    {
+        "id": 170,
+        "name": "instant attraction"
+    },
+    {
+        "id": 171,
+        "name": "based on a novel"
+    },
+    {
+        "id": 172,
+        "name": "Transgender Character"
+    },
+    {
+        "id": 173,
+        "name": "human rights"
+    },
+    {
+        "id": 174,
+        "name": "ghosts"
+    },
+    {
+        "id": 175,
+        "name": "master-slave"
+    },
+    {
+        "id": 176,
+        "name": "Mean male lead"
+    },
+    {
+        "id": 177,
+        "name": "Advertisement"
+    },
+    {
+        "id": 178,
+        "name": "Child"
+    },
+    {
+        "id": 179,
+        "name": "wolf game series"
+    },
+    {
+        "id": 180,
+        "name": "Multiple Couples"
+    },
+    {
+        "id": 181,
+        "name": "gangsters"
+    },
+    {
+        "id": 182,
+        "name": "Murder"
+    },
+    {
+        "id": 183,
+        "name": "Cheating"
+    },
+    {
+        "id": 184,
+        "name": "Obsession"
+    },
+    {
+        "id": 185,
+        "name": "hustler"
+    },
+    {
+        "id": 186,
+        "name": "Bisexual"
+    },
+    {
+        "id": 187,
+        "name": "Aggressive Male Lead"
+    },
+    {
+        "id": 188,
+        "name": "Slow Romance"
+    },
+    {
+        "id": 189,
+        "name": "audition"
+    },
+    {
+        "id": 190,
+        "name": "Police"
+    },
+    {
+        "id": 191,
+        "name": "Twins"
+    },
+    {
+        "id": 192,
+        "name": "acceptance"
+    },
+    {
+        "id": 193,
+        "name": "HIV"
+    },
+    {
+        "id": 194,
+        "name": "Actor"
+    },
+    {
+        "id": 195,
+        "name": "Gore"
+    },
+    {
+        "id": 196,
+        "name": "Homophobia"
+    },
+    {
+        "id": 197,
+        "name": "Samurai"
+    },
+    {
+        "id": 198,
+        "name": "lgbt parents"
+    },
+    {
+        "id": 199,
+        "name": "drug addiction"
+    },
+    {
+        "id": 200,
+        "name": "assassin"
+    },
+    {
+        "id": 201,
+        "name": "Student/teacher"
+    },
+    {
+        "id": 202,
+        "name": "Harem"
+    },
+    {
+        "id": 203,
+        "name": "North Korean"
+    },
+    {
+        "id": 204,
+        "name": "King"
+    },
+    {
+        "id": 205,
+        "name": "violence"
+    },
+    {
+        "id": 206,
+        "name": "elder"
+    },
+    {
+        "id": 207,
+        "name": "princess"
+    },
+    {
+        "id": 208,
+        "name": "scholar"
+    },
+    {
+        "id": 209,
+        "name": "silla dynasty"
+    },
+    {
+        "id": 210,
+        "name": "goguryeo dynasty"
+    },
+    {
+        "id": 211,
+        "name": "baekje dynasty"
+    },
+    {
+        "id": 212,
+        "name": "Gumiho"
+    },
+    {
+        "id": 213,
+        "name": "love triangles"
+    },
+    {
+        "id": 214,
+        "name": "fights"
+    },
+    {
+        "id": 215,
+        "name": "Mental Hospital"
+    },
+    {
+        "id": 216,
+        "name": "Tragic Past"
+    },
+    {
+        "id": 217,
+        "name": "virtual game"
+    },
+    {
+        "id": 218,
+        "name": "Sismance"
+    },
+    {
+        "id": 219,
+        "name": "Makeover"
+    },
+    {
+        "id": 220,
+        "name": "weight loss"
+    },
+    {
+        "id": 221,
+        "name": "Revenge"
+    },
+    {
+        "id": 222,
+        "name": "gaming"
+    },
+    {
+        "id": 223,
+        "name": "second lead syndrome"
+    },
+    {
+        "id": 224,
+        "name": "cooking show"
+    },
+    {
+        "id": 225,
+        "name": "Second Chance"
+    },
+    {
+        "id": 226,
+        "name": "monsta x"
+    },
+    {
+        "id": 227,
+        "name": "Step-siblings Love"
+    },
+    {
+        "id": 228,
+        "name": "Bad man/good woman"
+    },
+    {
+        "id": 229,
+        "name": "school rivalry"
+    },
+    {
+        "id": 230,
+        "name": "highschool"
+    },
+    {
+        "id": 231,
+        "name": "Fashion"
+    },
+    {
+        "id": 232,
+        "name": "rags to riches"
+    },
+    {
+        "id": 233,
+        "name": "Cold man/Warm woman"
+    },
+    {
+        "id": 234,
+        "name": "love songs love series"
+    },
+    {
+        "id": 235,
+        "name": "Housemate"
+    },
+    {
+        "id": 236,
+        "name": "mblaq"
+    },
+    {
+        "id": 237,
+        "name": "dating show"
+    },
+    {
+        "id": 238,
+        "name": "errotic"
+    },
+    {
+        "id": 239,
+        "name": "Boss/Employee Relationship"
+    },
+    {
+        "id": 240,
+        "name": "dance"
+    },
+    {
+        "id": 241,
+        "name": "Middle School"
+    },
+    {
+        "id": 242,
+        "name": "Student"
+    },
+    {
+        "id": 243,
+        "name": "Identity Swap"
+    },
+    {
+        "id": 244,
+        "name": "Makjang"
+    },
+    {
+        "id": 245,
+        "name": "Blind Character"
+    },
+    {
+        "id": 246,
+        "name": "love books love series"
+    },
+    {
+        "id": 247,
+        "name": "Kidnapping"
+    },
+    {
+        "id": 248,
+        "name": "Hip Hop"
+    },
+    {
+        "id": 249,
+        "name": "Cancer"
+    },
+    {
+        "id": 250,
+        "name": "Intellectual Disability"
+    },
+    {
+        "id": 251,
+        "name": "family secret"
+    },
+    {
+        "id": 252,
+        "name": "nct"
+    },
+    {
+        "id": 253,
+        "name": "Contract Relationship"
+    },
+    {
+        "id": 254,
+        "name": "Hotel"
+    },
+    {
+        "id": 255,
+        "name": "ancient china"
+    },
+    {
+        "id": 256,
+        "name": "Fate"
+    },
+    {
+        "id": 257,
+        "name": "Coming of age"
+    },
+    {
+        "id": 258,
+        "name": "Web Series"
+    },
+    {
+        "id": 259,
+        "name": "criminal"
+    },
+    {
+        "id": 260,
+        "name": "drama special season 8"
+    },
+    {
+        "id": 261,
+        "name": "Sengoku Period"
+    },
+    {
+        "id": 262,
+        "name": "Lying"
+    },
+    {
+        "id": 263,
+        "name": "Tomboy"
+    },
+    {
+        "id": 264,
+        "name": "Strong Female Lead"
+    },
+    {
+        "id": 265,
+        "name": "Love Square"
+    },
+    {
+        "id": 266,
+        "name": "Terminal illness"
+    },
+    {
+        "id": 267,
+        "name": "mockumentary"
+    },
+    {
+        "id": 268,
+        "name": "Genius"
+    },
+    {
+        "id": 269,
+        "name": "game"
+    },
+    {
+        "id": 270,
+        "name": "Korean War"
+    },
+    {
+        "id": 271,
+        "name": "adopted"
+    },
+    {
+        "id": 272,
+        "name": "Gangster"
+    },
+    {
+        "id": 273,
+        "name": "forgiveness"
+    },
+    {
+        "id": 274,
+        "name": "Step Family"
+    },
+    {
+        "id": 275,
+        "name": "Stolen Identity"
+    },
+    {
+        "id": 276,
+        "name": "Sibling"
+    },
+    {
+        "id": 277,
+        "name": "Personal growth"
+    },
+    {
+        "id": 278,
+        "name": "Ex-girlfriend Comes Back"
+    },
+    {
+        "id": 279,
+        "name": "Writer"
+    },
+    {
+        "id": 280,
+        "name": "psychiatry"
+    },
+    {
+        "id": 281,
+        "name": "Life Lesson"
+    },
+    {
+        "id": 282,
+        "name": "Yakuza"
+    },
+    {
+        "id": 283,
+        "name": "rich characters"
+    },
+    {
+        "id": 284,
+        "name": "Poor Characters"
+    },
+    {
+        "id": 285,
+        "name": "personality different from appearance"
+    },
+    {
+        "id": 286,
+        "name": "Huge Family"
+    },
+    {
+        "id": 287,
+        "name": "girls' school"
+    },
+    {
+        "id": 288,
+        "name": "boys' school"
+    },
+    {
+        "id": 289,
+        "name": "Clingy Female Lead"
+    },
+    {
+        "id": 290,
+        "name": "hilarious male lead"
+    },
+    {
+        "id": 291,
+        "name": "Baseball"
+    },
+    {
+        "id": 292,
+        "name": "Eccentric Male Lead"
+    },
+    {
+        "id": 293,
+        "name": "Abusive Parents"
+    },
+    {
+        "id": 294,
+        "name": "money-obsession"
+    },
+    {
+        "id": 295,
+        "name": "Calm Male Lead"
+    },
+    {
+        "id": 296,
+        "name": "Ghost-seeing Male Lead"
+    },
+    {
+        "id": 297,
+        "name": "death note"
+    },
+    {
+        "id": 298,
+        "name": "Phobia"
+    },
+    {
+        "id": 299,
+        "name": "Gang"
+    },
+    {
+        "id": 300,
+        "name": "yankee"
+    },
+    {
+        "id": 301,
+        "name": "life lesson"
+    },
+    {
+        "id": 302,
+        "name": "god of death"
+    },
+    {
+        "id": 303,
+        "name": "intelligent character"
+    },
+    {
+        "id": 304,
+        "name": "Alzheimer's Disease"
+    },
+    {
+        "id": 305,
+        "name": "Misunderstanding"
+    },
+    {
+        "id": 306,
+        "name": "family pressure"
+    },
+    {
+        "id": 307,
+        "name": "noona romance"
+    },
+    {
+        "id": 308,
+        "name": "Evil Stepmother"
+    },
+    {
+        "id": 309,
+        "name": "villainess"
+    },
+    {
+        "id": 310,
+        "name": "Blindness"
+    },
+    {
+        "id": 311,
+        "name": "terminal disease"
+    },
+    {
+        "id": 312,
+        "name": "Obsessive Second Lead"
+    },
+    {
+        "id": 313,
+        "name": "switched at birth"
+    },
+    {
+        "id": 314,
+        "name": "journalism"
+    },
+    {
+        "id": 315,
+        "name": "Orphan"
+    },
+    {
+        "id": 316,
+        "name": "Cohabitation"
+    },
+    {
+        "id": 317,
+        "name": "Friends To Lovers"
+    },
+    {
+        "id": 318,
+        "name": "slow-burn romance"
+    },
+    {
+        "id": 319,
+        "name": "VIXX"
+    },
+    {
+        "id": 320,
+        "name": "kpop"
+    },
+    {
+        "id": 321,
+        "name": "Beauty"
+    },
+    {
+        "id": 322,
+        "name": "Autobiography"
+    },
+    {
+        "id": 323,
+        "name": "Robot"
+    },
+    {
+        "id": 324,
+        "name": "Artificial Intelligence"
+    },
+    {
+        "id": 325,
+        "name": "crossworlds traveler"
+    },
+    {
+        "id": 326,
+        "name": "game world"
+    },
+    {
+        "id": 327,
+        "name": "online gaming"
+    },
+    {
+        "id": 328,
+        "name": "Emotional Blunting"
+    },
+    {
+        "id": 329,
+        "name": "Illness"
+    },
+    {
+        "id": 330,
+        "name": "Dissociative identity disorder"
+    },
+    {
+        "id": 331,
+        "name": "Disability"
+    },
+    {
+        "id": 332,
+        "name": "Autism"
+    },
+    {
+        "id": 333,
+        "name": "Obsessive-compulsive Disorder"
+    },
+    {
+        "id": 334,
+        "name": "Rich woman/Poor man"
+    },
+    {
+        "id": 335,
+        "name": "antihero"
+    },
+    {
+        "id": 336,
+        "name": "Mermaid"
+    },
+    {
+        "id": 337,
+        "name": "Con Artist"
+    },
+    {
+        "id": 338,
+        "name": "Bodyguard"
+    },
+    {
+        "id": 339,
+        "name": "Curse"
+    },
+    {
+        "id": 340,
+        "name": "Cheerful Girl"
+    },
+    {
+        "id": 341,
+        "name": "switched identities"
+    },
+    {
+        "id": 342,
+        "name": "Slap and Kiss"
+    },
+    {
+        "id": 343,
+        "name": "Heartbreak"
+    },
+    {
+        "id": 344,
+        "name": "Tsundere"
+    },
+    {
+        "id": 345,
+        "name": "high jump"
+    },
+    {
+        "id": 346,
+        "name": "abortion"
+    },
+    {
+        "id": 347,
+        "name": "Transfer student"
+    },
+    {
+        "id": 348,
+        "name": "Heiress"
+    },
+    {
+        "id": 349,
+        "name": "Birth Secret"
+    },
+    {
+        "id": 350,
+        "name": "roommate"
+    },
+    {
+        "id": 351,
+        "name": "stylish woman"
+    },
+    {
+        "id": 352,
+        "name": "enemies to lovers"
+    },
+    {
+        "id": 353,
+        "name": "Interspecies Romance"
+    },
+    {
+        "id": 354,
+        "name": "Nudity"
+    },
+    {
+        "id": 355,
+        "name": "Rape"
+    },
+    {
+        "id": 356,
+        "name": "Gang Rape"
+    },
+    {
+        "id": 357,
+        "name": "Immortal"
+    },
+    {
+        "id": 358,
+        "name": "fox"
+    },
+    {
+        "id": 359,
+        "name": "hu li jing"
+    },
+    {
+        "id": 360,
+        "name": "merman"
+    },
+    {
+        "id": 361,
+        "name": "Shapeshifter"
+    },
+    {
+        "id": 362,
+        "name": "Demon"
+    },
+    {
+        "id": 363,
+        "name": "dragon"
+    },
+    {
+        "id": 364,
+        "name": "android"
+    },
+    {
+        "id": 365,
+        "name": "Coma"
+    },
+    {
+        "id": 366,
+        "name": "angel of death"
+    },
+    {
+        "id": 367,
+        "name": "jeoseung saja"
+    },
+    {
+        "id": 368,
+        "name": "Elemental Power"
+    },
+    {
+        "id": 369,
+        "name": "angel"
+    },
+    {
+        "id": 370,
+        "name": "devil"
+    },
+    {
+        "id": 371,
+        "name": "Precognition"
+    },
+    {
+        "id": 372,
+        "name": "Time Manipulation"
+    },
+    {
+        "id": 373,
+        "name": "Superhuman Strength"
+    },
+    {
+        "id": 374,
+        "name": "Werewolf"
+    },
+    {
+        "id": 375,
+        "name": "Child Abuse"
+    },
+    {
+        "id": 376,
+        "name": "molestation"
+    },
+    {
+        "id": 377,
+        "name": "Hate To Love"
+    },
+    {
+        "id": 378,
+        "name": "secret / hidden identity"
+    },
+    {
+        "id": 379,
+        "name": "Deity"
+    },
+    {
+        "id": 380,
+        "name": "snake"
+    },
+    {
+        "id": 381,
+        "name": "Adapted from a manhwa"
+    },
+    {
+        "id": 382,
+        "name": "Special Power"
+    },
+    {
+        "id": 383,
+        "name": "Marriage of Convenience"
+    },
+    {
+        "id": 384,
+        "name": "Male Chases Female First"
+    },
+    {
+        "id": 385,
+        "name": "Corruption"
+    },
+    {
+        "id": 386,
+        "name": "Divorce"
+    },
+    {
+        "id": 387,
+        "name": "Brothers"
+    },
+    {
+        "id": 388,
+        "name": "kamen rider"
+    },
+    {
+        "id": 389,
+        "name": "toku"
+    },
+    {
+        "id": 390,
+        "name": "deliveryman"
+    },
+    {
+        "id": 391,
+        "name": "Japanese Colonial Rule"
+    },
+    {
+        "id": 392,
+        "name": "Erotic"
+    },
+    {
+        "id": 393,
+        "name": "Black Magic"
+    },
+    {
+        "id": 394,
+        "name": "Magic"
+    },
+    {
+        "id": 395,
+        "name": "School Problems"
+    },
+    {
+        "id": 396,
+        "name": "Domestic Violence"
+    },
+    {
+        "id": 397,
+        "name": "Transformation"
+    },
+    {
+        "id": 398,
+        "name": "Adoption"
+    },
+    {
+        "id": 399,
+        "name": "Stepmother"
+    },
+    {
+        "id": 400,
+        "name": "High School"
+    },
+    {
+        "id": 401,
+        "name": "Got7"
+    },
+    {
+        "id": 402,
+        "name": "sisterhood"
+    },
+    {
+        "id": 403,
+        "name": "Death"
+    },
+    {
+        "id": 404,
+        "name": "BTOB"
+    },
+    {
+        "id": 405,
+        "name": "Older Woman/Younger Man"
+    },
+    {
+        "id": 406,
+        "name": "beauty and makeup"
+    },
+    {
+        "id": 407,
+        "name": "Exorcism"
+    },
+    {
+        "id": 408,
+        "name": "Sexual Content"
+    },
+    {
+        "id": 409,
+        "name": "Manga Artist"
+    },
+    {
+        "id": 410,
+        "name": "adapted from a anime"
+    },
+    {
+        "id": 411,
+        "name": "divorced couple"
+    },
+    {
+        "id": 412,
+        "name": "Father-Son Relationship"
+    },
+    {
+        "id": 413,
+        "name": "Mother-Daughter Relationship"
+    },
+    {
+        "id": 414,
+        "name": "living with in-laws"
+    },
+    {
+        "id": 415,
+        "name": "Father-Daughter Relationship"
+    },
+    {
+        "id": 416,
+        "name": "Mother-Son Relationship"
+    },
+    {
+        "id": 417,
+        "name": "Body Transformation"
+    },
+    {
+        "id": 418,
+        "name": "Ghost-seeing Female Lead"
+    },
+    {
+        "id": 419,
+        "name": "Beauty Pageant"
+    },
+    {
+        "id": 420,
+        "name": "chuseok special"
+    },
+    {
+        "id": 421,
+        "name": "chinese mythology"
+    },
+    {
+        "id": 422,
+        "name": "immortality"
+    },
+    {
+        "id": 423,
+        "name": "pre-produced"
+    },
+    {
+        "id": 424,
+        "name": "Prison Escape"
+    },
+    {
+        "id": 425,
+        "name": "Arrogant Male Lead"
+    },
+    {
+        "id": 426,
+        "name": "gwanghaegun of joseon"
+    },
+    {
+        "id": 427,
+        "name": "shogi"
+    },
+    {
+        "id": 428,
+        "name": "Trauma"
+    },
+    {
+        "id": 429,
+        "name": "drug"
+    },
+    {
+        "id": 430,
+        "name": "Western Series Remake"
+    },
+    {
+        "id": 431,
+        "name": "Deserted Island"
+    },
+    {
+        "id": 432,
+        "name": "Survival"
+    },
+    {
+        "id": 433,
+        "name": "drama special season 5"
+    },
+    {
+        "id": 434,
+        "name": "Psychopath"
+    },
+    {
+        "id": 435,
+        "name": "Live Action"
+    },
+    {
+        "id": 436,
+        "name": "Swimming"
+    },
+    {
+        "id": 437,
+        "name": "poetry"
+    },
+    {
+        "id": 438,
+        "name": "Street Fight"
+    },
+    {
+        "id": 439,
+        "name": "poor family"
+    },
+    {
+        "id": 440,
+        "name": "adapted from a manhua"
+    },
+    {
+        "id": 441,
+        "name": "Teen Pregnancy"
+    },
+    {
+        "id": 442,
+        "name": "Prodigy"
+    },
+    {
+        "id": 443,
+        "name": "piano"
+    },
+    {
+        "id": 444,
+        "name": "Spy"
+    },
+    {
+        "id": 445,
+        "name": "inspirational"
+    },
+    {
+        "id": 446,
+        "name": "Gambling"
+    },
+    {
+        "id": 447,
+        "name": "conspiracy"
+    },
+    {
+        "id": 448,
+        "name": "Super Junior"
+    },
+    {
+        "id": 449,
+        "name": "fake/pretend relationship"
+    },
+    {
+        "id": 450,
+        "name": "mahjong"
+    },
+    {
+        "id": 451,
+        "name": "Pretend Relationship"
+    },
+    {
+        "id": 452,
+        "name": "Infidelity"
+    },
+    {
+        "id": 453,
+        "name": "mobile drama"
+    },
+    {
+        "id": 454,
+        "name": "Miniseries"
+    },
+    {
+        "id": 455,
+        "name": "Twice"
+    },
+    {
+        "id": 456,
+        "name": "keyakizaka46"
+    },
+    {
+        "id": 457,
+        "name": "Criminal Profiler"
+    },
+    {
+        "id": 458,
+        "name": "Hidden Identity"
+    },
+    {
+        "id": 459,
+        "name": "Sibling Rivalry"
+    },
+    {
+        "id": 460,
+        "name": "Tearjerker"
+    },
+    {
+        "id": 461,
+        "name": "super sentai"
+    },
+    {
+        "id": 462,
+        "name": "Abuse"
+    },
+    {
+        "id": 463,
+        "name": "novoland"
+    },
+    {
+        "id": 464,
+        "name": "Qin Dynasty"
+    },
+    {
+        "id": 465,
+        "name": "short movie"
+    },
+    {
+        "id": 466,
+        "name": "teen dating"
+    },
+    {
+        "id": 467,
+        "name": "Police Procedural"
+    },
+    {
+        "id": 468,
+        "name": "classic"
+    },
+    {
+        "id": 469,
+        "name": "One-night stand"
+    },
+    {
+        "id": 470,
+        "name": "living together"
+    },
+    {
+        "id": 471,
+        "name": "mountain climbing"
+    },
+    {
+        "id": 472,
+        "name": "Smart Male Lead"
+    },
+    {
+        "id": 473,
+        "name": "Hacker"
+    },
+    {
+        "id": 474,
+        "name": "Slice of Life"
+    },
+    {
+        "id": 475,
+        "name": "illegal immigration"
+    },
+    {
+        "id": 476,
+        "name": "Boxing"
+    },
+    {
+        "id": 477,
+        "name": "Undercover Agent"
+    },
+    {
+        "id": 478,
+        "name": "Qing Dynasty"
+    },
+    {
+        "id": 479,
+        "name": "edo period"
+    },
+    {
+        "id": 480,
+        "name": "social issues"
+    },
+    {
+        "id": 481,
+        "name": "earthquake"
+    },
+    {
+        "id": 482,
+        "name": "Wedding"
+    },
+    {
+        "id": 483,
+        "name": "Plastic Surgery"
+    },
+    {
+        "id": 484,
+        "name": "cat"
+    },
+    {
+        "id": 485,
+        "name": "K-Pop"
+    },
+    {
+        "id": 486,
+        "name": "Three Kingdoms"
+    },
+    {
+        "id": 487,
+        "name": "LGBTQ+"
+    },
+    {
+        "id": 488,
+        "name": "Black Comedy"
+    },
+    {
+        "id": 489,
+        "name": "Child Abandonment"
+    },
+    {
+        "id": 490,
+        "name": "Traveling"
+    },
+    {
+        "id": 491,
+        "name": "Foreigner"
+    },
+    {
+        "id": 492,
+        "name": "indie"
+    },
+    {
+        "id": 493,
+        "name": "Blackmail"
+    },
+    {
+        "id": 494,
+        "name": "career"
+    },
+    {
+        "id": 495,
+        "name": "Gisaeng"
+    },
+    {
+        "id": 496,
+        "name": "natural disaster"
+    },
+    {
+        "id": 497,
+        "name": "Terrorist"
+    },
+    {
+        "id": 498,
+        "name": "death game"
+    },
+    {
+        "id": 499,
+        "name": "Multiple Mains"
+    },
+    {
+        "id": 500,
+        "name": "aliens"
+    },
+    {
+        "id": 501,
+        "name": "cops vs criminals"
+    },
+    {
+        "id": 502,
+        "name": "Aloof Character"
+    },
+    {
+        "id": 503,
+        "name": "Teacher"
+    },
+    {
+        "id": 504,
+        "name": "Dream"
+    },
+    {
+        "id": 505,
+        "name": "band"
+    },
+    {
+        "id": 506,
+        "name": "Butler"
+    },
+    {
+        "id": 507,
+        "name": "Clone"
+    },
+    {
+        "id": 508,
+        "name": "morning drama"
+    },
+    {
+        "id": 509,
+        "name": "Lawyer"
+    },
+    {
+        "id": 510,
+        "name": "Miscarriage"
+    },
+    {
+        "id": 511,
+        "name": "Biographical"
+    },
+    {
+        "id": 512,
+        "name": "Multi-Generational"
+    },
+    {
+        "id": 513,
+        "name": "Jealousy"
+    },
+    {
+        "id": 514,
+        "name": "woman detective"
+    },
+    {
+        "id": 515,
+        "name": "ultraman"
+    },
+    {
+        "id": 516,
+        "name": "book"
+    },
+    {
+        "id": 517,
+        "name": "bookstore"
+    },
+    {
+        "id": 518,
+        "name": "railway driver"
+    },
+    {
+        "id": 519,
+        "name": "Show business"
+    },
+    {
+        "id": 520,
+        "name": "Basketball"
+    },
+    {
+        "id": 521,
+        "name": "Torture"
+    },
+    {
+        "id": 522,
+        "name": "Mafia"
+    },
+    {
+        "id": 523,
+        "name": "Workplace"
+    },
+    {
+        "id": 524,
+        "name": "Theater"
+    },
+    {
+        "id": 525,
+        "name": "Single Parent"
+    },
+    {
+        "id": 526,
+        "name": "arts"
+    },
+    {
+        "id": 527,
+        "name": "art"
+    },
+    {
+        "id": 528,
+        "name": "island"
+    },
+    {
+        "id": 529,
+        "name": "world war ii"
+    },
+    {
+        "id": 530,
+        "name": "World War 2"
+    },
+    {
+        "id": 531,
+        "name": "Secret Relationship"
+    },
+    {
+        "id": 532,
+        "name": "Ming Dynasty"
+    },
+    {
+        "id": 533,
+        "name": "sino-japanese war"
+    },
+    {
+        "id": 534,
+        "name": "interview"
+    },
+    {
+        "id": 535,
+        "name": "behind the scenes"
+    },
+    {
+        "id": 536,
+        "name": "Deafness"
+    },
+    {
+        "id": 537,
+        "name": "Muteness"
+    },
+    {
+        "id": 538,
+        "name": "surgeon"
+    },
+    {
+        "id": 539,
+        "name": "Delinquent"
+    },
+    {
+        "id": 540,
+        "name": "monster"
+    },
+    {
+        "id": 541,
+        "name": "Elementary School"
+    },
+    {
+        "id": 542,
+        "name": "Christmas"
+    },
+    {
+        "id": 543,
+        "name": "rock"
+    },
+    {
+        "id": 544,
+        "name": "Married Couple"
+    },
+    {
+        "id": 545,
+        "name": "prosecutor"
+    },
+    {
+        "id": 546,
+        "name": "Musical"
+    },
+    {
+        "id": 547,
+        "name": "Xianxia"
+    },
+    {
+        "id": 548,
+        "name": "biography"
+    },
+    {
+        "id": 549,
+        "name": "Poor Female Lead"
+    },
+    {
+        "id": 550,
+        "name": "Virus"
+    },
+    {
+        "id": 551,
+        "name": "Aviation"
+    },
+    {
+        "id": 552,
+        "name": "Sexual Abuse"
+    },
+    {
+        "id": 553,
+        "name": "dog"
+    },
+    {
+        "id": 554,
+        "name": "Short Film"
+    },
+    {
+        "id": 555,
+        "name": "Healing"
+    },
+    {
+        "id": 556,
+        "name": "Geisha"
+    },
+    {
+        "id": 557,
+        "name": "ninja"
+    },
+    {
+        "id": 558,
+        "name": "Separation At Birth"
+    },
+    {
+        "id": 559,
+        "name": "human drama"
+    },
+    {
+        "id": 560,
+        "name": "Showa Era"
+    },
+    {
+        "id": 561,
+        "name": "Costume"
+    },
+    {
+        "id": 562,
+        "name": "Photography"
+    },
+    {
+        "id": 563,
+        "name": "Forced Marriage"
+    },
+    {
+        "id": 564,
+        "name": "Hospital"
+    },
+    {
+        "id": 565,
+        "name": "Doctor"
+    },
+    {
+        "id": 566,
+        "name": "Love At First Sight"
+    },
+    {
+        "id": 567,
+        "name": "Cold Woman"
+    },
+    {
+        "id": 568,
+        "name": "Countryside"
+    },
+    {
+        "id": 569,
+        "name": "Nurse"
+    },
+    {
+        "id": 570,
+        "name": "outer space"
+    },
+    {
+        "id": 571,
+        "name": "cheerleading"
+    },
+    {
+        "id": 572,
+        "name": "pure love"
+    },
+    {
+        "id": 573,
+        "name": "Police Officer"
+    },
+    {
+        "id": 574,
+        "name": "china republican era"
+    },
+    {
+        "id": 575,
+        "name": "black and white"
+    },
+    {
+        "id": 576,
+        "name": "Office Worker"
+    },
+    {
+        "id": 577,
+        "name": "leadership"
+    },
+    {
+        "id": 578,
+        "name": "Betrayal"
+    },
+    {
+        "id": 579,
+        "name": "school dorm"
+    },
+    {
+        "id": 580,
+        "name": "Miryang Gang Rape"
+    },
+    {
+        "id": 581,
+        "name": "Heir"
+    },
+    {
+        "id": 582,
+        "name": "Radio"
+    },
+    {
+        "id": 583,
+        "name": "Opposites Attract"
+    },
+    {
+        "id": 584,
+        "name": "Wrestling"
+    },
+    {
+        "id": 585,
+        "name": "magazine"
+    },
+    {
+        "id": 586,
+        "name": "Interracial"
+    },
+    {
+        "id": 587,
+        "name": "Taisho period"
+    },
+    {
+        "id": 588,
+        "name": "Rakugo"
+    },
+    {
+        "id": 589,
+        "name": "Singing"
+    },
+    {
+        "id": 590,
+        "name": "Baking"
+    },
+    {
+        "id": 591,
+        "name": "chef"
+    },
+    {
+        "id": 592,
+        "name": "film industry"
+    },
+    {
+        "id": 593,
+        "name": "screenwriter"
+    },
+    {
+        "id": 594,
+        "name": "Post-Occupation Japan"
+    },
+    {
+        "id": 595,
+        "name": "Soulmates"
+    },
+    {
+        "id": 596,
+        "name": "meiji period"
+    },
+    {
+        "id": 597,
+        "name": "news station"
+    },
+    {
+        "id": 598,
+        "name": "Volleyball"
+    },
+    {
+        "id": 599,
+        "name": "siblings"
+    },
+    {
+        "id": 600,
+        "name": "Fantasy World"
+    },
+    {
+        "id": 601,
+        "name": "silent film"
+    },
+    {
+        "id": 602,
+        "name": "satirical"
+    },
+    {
+        "id": 603,
+        "name": "disabled character"
+    },
+    {
+        "id": 604,
+        "name": "stockholm syndrome"
+    },
+    {
+        "id": 605,
+        "name": "Omnibus"
+    },
+    {
+        "id": 606,
+        "name": "Disease"
+    },
+    {
+        "id": 607,
+        "name": "dance competition"
+    },
+    {
+        "id": 608,
+        "name": "Sword-fight"
+    },
+    {
+        "id": 609,
+        "name": "religion"
+    },
+    {
+        "id": 610,
+        "name": "Tang Dynasty"
+    },
+    {
+        "id": 611,
+        "name": "Hate to Love Relationship"
+    },
+    {
+        "id": 612,
+        "name": "Older Man/Younger Woman"
+    },
+    {
+        "id": 613,
+        "name": "Taiga"
+    },
+    {
+        "id": 614,
+        "name": "letter"
+    },
+    {
+        "id": 615,
+        "name": "based on a song"
+    },
+    {
+        "id": 616,
+        "name": "disappearance"
+    },
+    {
+        "id": 617,
+        "name": "florist"
+    },
+    {
+        "id": 618,
+        "name": "Award-Winning"
+    },
+    {
+        "id": 619,
+        "name": "super power"
+    },
+    {
+        "id": 620,
+        "name": "gay relationship"
+    },
+    {
+        "id": 621,
+        "name": "Lesbian Relationship"
+    },
+    {
+        "id": 622,
+        "name": "different timelines"
+    },
+    {
+        "id": 623,
+        "name": "past and present"
+    },
+    {
+        "id": 624,
+        "name": "destiny"
+    },
+    {
+        "id": 625,
+        "name": "racing"
+    },
+    {
+        "id": 626,
+        "name": "car racing"
+    },
+    {
+        "id": 627,
+        "name": "Family Relationship"
+    },
+    {
+        "id": 628,
+        "name": "news anchor"
+    },
+    {
+        "id": 629,
+        "name": "teacher/student"
+    },
+    {
+        "id": 630,
+        "name": "teen"
+    },
+    {
+        "id": 631,
+        "name": "roadtrip"
+    },
+    {
+        "id": 632,
+        "name": "Power Struggle"
+    },
+    {
+        "id": 633,
+        "name": "second chances"
+    },
+    {
+        "id": 634,
+        "name": "Depression"
+    },
+    {
+        "id": 635,
+        "name": "Drama Stage"
+    },
+    {
+        "id": 636,
+        "name": "Unexpected Pregnancy"
+    },
+    {
+        "id": 637,
+        "name": "wife trilogy (series)"
+    },
+    {
+        "id": 638,
+        "name": "heaven trilogy (series)"
+    },
+    {
+        "id": 639,
+        "name": "manga adaptation"
+    },
+    {
+        "id": 640,
+        "name": "Neighbours"
+    },
+    {
+        "id": 641,
+        "name": "Independent Film"
+    },
+    {
+        "id": 642,
+        "name": "Possessive male lead"
+    },
+    {
+        "id": 643,
+        "name": "restaurant"
+    },
+    {
+        "id": 644,
+        "name": "Emotional Abuse"
+    },
+    {
+        "id": 645,
+        "name": "ice hockey"
+    },
+    {
+        "id": 646,
+        "name": "1950s"
+    },
+    {
+        "id": 647,
+        "name": "adopted siblings love"
+    },
+    {
+        "id": 648,
+        "name": "Abusive Male Lead"
+    },
+    {
+        "id": 649,
+        "name": "Funeral"
+    },
+    {
+        "id": 650,
+        "name": "Naive female lead"
+    },
+    {
+        "id": 651,
+        "name": "Roman Porno Reboot Project"
+    },
+    {
+        "id": 652,
+        "name": "Folklore"
+    },
+    {
+        "id": 653,
+        "name": "pandemic"
+    },
+    {
+        "id": 654,
+        "name": "Guy Chases Girl First"
+    },
+    {
+        "id": 655,
+        "name": "Failing Marriage"
+    },
+    {
+        "id": 656,
+        "name": "Fraud"
+    },
+    {
+        "id": 657,
+        "name": "forensic"
+    },
+    {
+        "id": 658,
+        "name": "Superhero"
+    },
+    {
+        "id": 659,
+        "name": "feudal japan"
+    },
+    {
+        "id": 660,
+        "name": "Playboy Male Lead"
+    },
+    {
+        "id": 661,
+        "name": "Fake Marriage"
+    },
+    {
+        "id": 662,
+        "name": "Rich Female Lead"
+    },
+    {
+        "id": 663,
+        "name": "School Club"
+    },
+    {
+        "id": 664,
+        "name": "veterinarian"
+    },
+    {
+        "id": 665,
+        "name": "Fantasy Kingdom"
+    },
+    {
+        "id": 666,
+        "name": "Happy Ending"
+    },
+    {
+        "id": 667,
+        "name": "Ambiguous Ending"
+    },
+    {
+        "id": 668,
+        "name": "Bittersweet Ending"
+    },
+    {
+        "id": 669,
+        "name": "Republican Era"
+    },
+    {
+        "id": 670,
+        "name": "Accident"
+    },
+    {
+        "id": 671,
+        "name": "Gyaru"
+    },
+    {
+        "id": 672,
+        "name": "compensated dating"
+    },
+    {
+        "id": 673,
+        "name": "Female Rivalry"
+    },
+    {
+        "id": 674,
+        "name": "Nice Male Lead"
+    },
+    {
+        "id": 675,
+        "name": "university"
+    },
+    {
+        "id": 676,
+        "name": "Sweet Male Lead"
+    },
+    {
+        "id": 677,
+        "name": "Team mates"
+    },
+    {
+        "id": 678,
+        "name": "Player male lead"
+    },
+    {
+        "id": 679,
+        "name": "Forbidden Love"
+    },
+    {
+        "id": 680,
+        "name": "One sided love"
+    },
+    {
+        "id": 681,
+        "name": "Nogizaka46"
+    },
+    {
+        "id": 682,
+        "name": "Colleagues"
+    },
+    {
+        "id": 683,
+        "name": "Housekeeper"
+    },
+    {
+        "id": 684,
+        "name": "Boran"
+    },
+    {
+        "id": 685,
+        "name": "Soccer"
+    },
+    {
+        "id": 686,
+        "name": "Mukbang"
+    },
+    {
+        "id": 687,
+        "name": "Gynecology"
+    },
+    {
+        "id": 688,
+        "name": "babies"
+    },
+    {
+        "id": 689,
+        "name": "emergency service"
+    },
+    {
+        "id": 690,
+        "name": "Chinese Opera"
+    },
+    {
+        "id": 691,
+        "name": "Strong Male Lead"
+    },
+    {
+        "id": 692,
+        "name": "Drama Special Season 9"
+    },
+    {
+        "id": 693,
+        "name": "Priest"
+    },
+    {
+        "id": 694,
+        "name": "Shamanism"
+    },
+    {
+        "id": 695,
+        "name": "Drama Special Season 1"
+    },
+    {
+        "id": 696,
+        "name": "Drama Special Series 1"
+    },
+    {
+        "id": 697,
+        "name": "Drama Special Season 6"
+    },
+    {
+        "id": 698,
+        "name": "Sewol Ferry Disaster"
+    },
+    {
+        "id": 699,
+        "name": "Hello Stranger series"
+    },
+    {
+        "id": 700,
+        "name": "Hidden Personality"
+    },
+    {
+        "id": 701,
+        "name": "mail-to-order shopping"
+    },
+    {
+        "id": 702,
+        "name": "kurata - Uta-garuta"
+    },
+    {
+        "id": 703,
+        "name": "Charming Male Lead"
+    },
+    {
+        "id": 704,
+        "name": "Time Jump Happy Ending"
+    },
+    {
+        "id": 705,
+        "name": "Airhead Female Lead"
+    },
+    {
+        "id": 706,
+        "name": "Minimal Romance"
+    },
+    {
+        "id": 707,
+        "name": "High School to Working Life"
+    },
+    {
+        "id": 708,
+        "name": "Open Ending"
+    },
+    {
+        "id": 709,
+        "name": "Bantering Relationship"
+    },
+    {
+        "id": 710,
+        "name": "Hitman"
+    },
+    {
+        "id": 711,
+        "name": "Higashino Keigo"
+    }
+]
