@@ -31,12 +31,6 @@
 	},
 	"donate_wallets": [
 		{
-			"id": "FKWallet",
-			"wallet": "RjExMjA0MDA1Ng==",
-			"title": "FKWallet",
-			"icon": "https://www.fkwallet.ru/assets/2017/smart-app-banner/ic_launcher-web.png"
-		},
-		{
 			"id": "PAYEER",
 			"wallet": "UDEwNzEzOTk5NzM=",
 			"title": "PAYEER",
