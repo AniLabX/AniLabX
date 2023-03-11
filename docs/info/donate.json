@@ -31,6 +31,12 @@
 	},
 	"donate_wallets": [
 		{
+			"id": "GUMROAD",
+			"wallet": "aHR0cHM6Ly9hbmlsYWJ4Lmd1bXJvYWQuY29tLw==",
+			"title": "For Ukraine/Europe",
+			"icon": "https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/6202f6a901b39b4ce6060602_ccb4f82b5fdc7a3a910fc8df3e49297a-32bits-256.png"
+		},
+		{
 			"id": "PAYEER",
 			"wallet": "UDEwNzEzOTk5NzM=",
 			"title": "PAYEER",
