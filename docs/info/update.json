@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "3.12.25",
-		"version_code": "345",
+		"version_name": "3.12.26",
+		"version_code": "346",
 		"min_version_code": "340",
-		"content": "<b>Версия 3.12.25 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Новое! - Расширение списка поддерживаемых фильтров в каталоге ReManga</li>\r\n<li>Доработка локализации</li>\r\n<li>FIX! - Shikimori - Исправлена невозможность отключить синхронизацию контента 18+ с Shikimori</li>\r\n<li>FIX! - Сильно улучшен механизм автоматического обхода AntiDDoS</li>\r\n<li>FIX! - Исправлена загрузка глав в некоторой манге в каталоге ReManga</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.26 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>FIX! - Еще раз улучшен механизм автоматического обхода AntiDDoS и исправлены найденные ошибки</li>\r\n<li>FIX! - Немного уменьшено потребление оперативной памяти</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	},
 	"release": {
-		"version_name": "3.12.25",
-		"version_code": "345",
+		"version_name": "3.12.26",
+		"version_code": "346",
 		"min_version_code": "340",
-		"content": "<b>Версия 3.12.25 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Новое! - Расширение списка поддерживаемых фильтров в каталоге ReManga</li>\r\n<li>Доработка локализации</li>\r\n<li>FIX! - Shikimori - Исправлена невозможность отключить синхронизацию контента 18+ с Shikimori</li>\r\n<li>FIX! - Сильно улучшен механизм автоматического обхода AntiDDoS</li>\r\n<li>FIX! - Исправлена загрузка глав в некоторой манге в каталоге ReManga</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.26 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>FIX! - Еще раз улучшен механизм автоматического обхода AntiDDoS и исправлены найденные ошибки</li>\r\n<li>FIX! - Немного уменьшено потребление оперативной памяти</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	}
 }
