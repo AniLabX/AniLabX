@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "3.12.33",
-		"version_code": "355",
+		"version_name": "3.12.35",
+		"version_code": "356",
 		"min_version_code": "340",
-		"content": "<b>Версия 3.12.33 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Shikimori - Использование альтернативного API для обхода ограничений в некоторых странах (Авторизация может требовать использование VPN)</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.35 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Shikimori - Полноценный переезд на новый домен</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	},
 	"release": {
-		"version_name": "3.12.33",
-		"version_code": "355",
+		"version_name": "3.12.35",
+		"version_code": "356",
 		"min_version_code": "340",
-		"content": "<b>Версия 3.12.33 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Shikimori - Использование альтернативного API для обхода ограничений в некоторых странах (Авторизация может требовать использование VPN)</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.35 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Shikimori - Полноценный переезд на новый домен</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	}
 }
