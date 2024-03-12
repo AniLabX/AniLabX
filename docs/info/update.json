@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "3.12.45",
-		"version_code": "367",
+		"version_name": "3.12.46",
+		"version_code": "368",
 		"min_version_code": "367",
-		"content": "<b>Версия 3.12.45 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>FIX! - Адаптация под изменения в одном из сервисов с видео</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.46 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>FIX! - Исправления в работе гибридного каталога ReManga</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	},
 	"release": {
-		"version_name": "3.12.45",
-		"version_code": "367",
+		"version_name": "3.12.46",
+		"version_code": "368",
 		"min_version_code": "367",
-		"content": "<b>Версия 3.12.45 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>FIX! - Адаптация под изменения в одном из сервисов с видео</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.46 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>FIX! - Исправления в работе гибридного каталога ReManga</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	}
 }
