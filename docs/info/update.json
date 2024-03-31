@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "3.12.47",
-		"version_code": "369",
+		"version_name": "3.12.48",
+		"version_code": "370",
 		"min_version_code": "367",
-		"content": "<b>Версия 3.12.47 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Добавлена поддержка протокола TLSv1.3</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.48 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Первоначальная подготовка к запуску AniLabX 5.0</li>\r\n<li>Экспериментальное решение проблемы невозможности проверить корневые сертификаты HTTPS сайтов в некоторых регионах</li>\r\n<li>FIX! - Исправлено прохождение капчи от CloudFlare во время авторизации в Shikimori</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	},
 	"release": {
-		"version_name": "3.12.47",
-		"version_code": "369",
+		"version_name": "3.12.48",
+		"version_code": "370",
 		"min_version_code": "367",
-		"content": "<b>Версия 3.12.47 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Добавлена поддержка протокола TLSv1.3</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
+		"content": "<b>Версия 3.12.48 (Caesium) - Release</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Первоначальная подготовка к запуску AniLabX 5.0</li>\r\n<li>Экспериментальное решение проблемы невозможности проверить корневые сертификаты HTTPS сайтов в некоторых регионах</li>\r\n<li>FIX! - Исправлено прохождение капчи от CloudFlare во время авторизации в Shikimori</li>\r\n<li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li>\r\n</ul>"
 	}
 }
