@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "5.3 (fix 1)",
-		"version_code": "521",
+		"version_name": "5.3 (fix 2)",
+		"version_code": "522",
 		"min_version_code": "516",
-		"content": "<b>Версия 5.3  (fix 1) (Aether) - Beta</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Нажмите для скачивания файла через браузер</a><ul><li>FIX! - Манга - Улучшена система автоматического переключения на альтернативный сервер с изображениями (если доступно). Теперь система учитывает даже разрывы соединений по инициативе сервера</li>\r\n<li>FIX! - Загрузчик-  Исправлен вылет во время кеширования некоторых эпизодов</li>\r\n</ul>"
+		"content": "<b>Версия 5.3  (fix 2) (Aether) - Beta</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Нажмите для скачивания файла через браузер</a><ul><li>FIX! - Манга - Поддержка загрузки изображений с CloudFlare Proxy, который на лету сжимает изображения</li>\r\n</ul>"
 	},
 	"release": {
-		"version_name": "5.3 (fix 1)",
-		"version_code": "521",
+		"version_name": "5.3 (fix 2)",
+		"version_code": "522",
 		"min_version_code": "516",
-		"content": "<b>Версия 5.3  (fix 1) (Aether) - Release</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Нажмите для скачивания файла через браузер</a><ul><li>FIX! - Манга - Улучшена система автоматического переключения на альтернативный сервер с изображениями (если доступно). Теперь система учитывает даже разрывы соединений по инициативе сервера</li>\r\n<li>FIX! - Загрузчик-  Исправлен вылет во время кеширования некоторых эпизодов</li>\r\n</ul>"
+		"content": "<b>Версия 5.3  (fix 2) (Aether) - Release</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Нажмите для скачивания файла через браузер</a><ul><li>FIX! - Манга - Поддержка загрузки изображений с CloudFlare Proxy, который на лету сжимает изображения</li>\r\n</ul>"
 	}
 }
