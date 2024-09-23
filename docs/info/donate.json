@@ -88,6 +88,11 @@
 			"subtitle": {
 				"default": "TRC20"
 			},
+			"info": {
+				"en": "Standard transaction fee ~1-3 USDT",
+				"ru": "Стандартная комиссия за транзакцию ~1-3 USDT",
+				"ua": "Стандартна комісія за транзакцію ~1-3 USDT"
+			},
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/usdt.png"
 		},
 		{
@@ -98,6 +103,11 @@
 			"subtitle": {
 				"default": "LTC"
 			},
+			"info": {
+				"en": "No transaction fee",
+				"ru": "Без комиссии за транзацию",
+				"ua": "Без комісії за транзацію"
+			},
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/ltc.png"
 		},
 		{
@@ -107,6 +117,11 @@
 			"title": "Ethereum (ЕTH)",
 			"subtitle": {
 				"default": "ETH"
+			},
+			"info": {
+				"en": "Standard transaction fee ~1-2$",
+				"ru": "Стандартная комиссия за транзакцию ~1-2$",
+				"ua": "Стандартна комісія за транзакцію ~1-2$"
 			},
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/eth.png"
 		}
