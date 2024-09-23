@@ -34,22 +34,33 @@
 			"id": "DONATE",
 			"system": "aHR0cHM6Ly9uZXcuZG9uYXRlcGF5LnJ1L0BjcmF6eXhhY2tlci1hcHBz",
 			"title": "Россия/Беларусь",
-			"subtitle": "Сервис пожертвований • Ручная обработка",
+			"subtitle": {
+				"en": "Donation Service • Manual Processing",
+				"ru": "Сервис пожертвований • Ручная обработка",
+				"ua": "Сервіс пожертвувань • Ручна обробка"
+			},
 			"icon": "https://i.imgur.com/lNC5ZPM.png"
 		},
 		{
 			"id": "GUMROAD",
 			"system": "aHR0cHM6Ly9hbmlsYWJ4Lmd1bXJvYWQuY29tLw==",
 			"title": "Україна/Europe",
-			"subtitle": "Промокоды/Promocodes • Автоматическая выдача/Auto issuing",
+			"subtitle": {
+				"en": "Promocodes • Auto issuing",
+				"ru": "Промокоды • Автоматическая выдача",
+				"ua": "Промокоди • Автоматична видача"
+			},
 			"icon": "https://assets.gumroad.com/assets/pink-icon-c5f5013768a1da41246e70403f02afc8b34ac89c20f3ba2dd0a01f3973027700.png"
 		},
 		{
 			"id": "WORLD",
 			"system": "aHR0cHM6Ly9hbmlsYWJ4Lmd1bXJvYWQuY29tLw==",
 			"title": "Весь мир/World",
-			"subtitle": "Промокоды/Promocodes",
-			"subtitle": "Промокоды/Promocodes • Автоматическая выдача/Auto issuing",
+			"subtitle": {
+				"en": "Promocodes • Auto issuing",
+				"ru": "Промокоды • Автоматическая выдача",
+				"ua": "Промокоди • Автоматична видача"
+			},
 			"icon": "https://assets.gumroad.com/assets/pink-icon-c5f5013768a1da41246e70403f02afc8b34ac89c20f3ba2dd0a01f3973027700.png"
 		}
 	],
