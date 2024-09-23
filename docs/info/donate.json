@@ -31,9 +31,15 @@
 	},
 	"donate_systems": [
 		{
+			"id": "DONATE",
+			"system": "aHR0cHM6Ly9uZXcuZG9uYXRlcGF5LnJ1L0BjcmF6eXhhY2tlci1hcHBz",
+			"title": "Россия/Беларусь",
+			"icon": "https://i.imgur.com/4WGEON3.png"
+		},
+		{
 			"id": "GUMROAD",
 			"system": "aHR0cHM6Ly9hbmlsYWJ4Lmd1bXJvYWQuY29tLw==",
-			"title": "Україна/Европа",
+			"title": "Україна/Europe",
 			"icon": "https://assets.gumroad.com/assets/pink-icon-c5f5013768a1da41246e70403f02afc8b34ac89c20f3ba2dd0a01f3973027700.png"
 		},
 		{
@@ -45,16 +51,10 @@
 	],
 	"donate_wallets": [
 		{
-			"id": "PAYEER",
-			"wallet": "UDEwNzEzOTk5NzM=",
-			"title": "PAYEER",
-			"icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple18/v4/d0/3d/45/d03d45d4-8e81-cb6f-c86e-f49ec98d374e/source/512x512bb.jpg"
-		},
-		{
-			"id": "ETH",
-			"wallet": "MHhkMzE3ZTY2YjJiZjI2MzRFNDc1ZTJBN0EyRUM1N2VDNGMxNkM4MTQ1",
-			"title": "Ethereum (ЕTH)",
-			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/eth.png"
+			"id": "TETHER_TRC20",
+			"wallet": "VERaTTlIaVJtelZ2czlxeHFiNlRMRTc1NkZRSFlodWVpUQ==",
+			"title": "Tether (USDT TRC20)",
+			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/usdt.png"
 		},
 		{
 			"id": "LTC",
@@ -63,16 +63,10 @@
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/ltc.png"
 		},
 		{
-			"id": "TETHER_TRC20",
-			"wallet": "VERaTTlIaVJtelZ2czlxeHFiNlRMRTc1NkZRSFlodWVpUQ==",
-			"title": "Tether (USDT) (TRC20)",
-			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/usdt.png"
-		},
-		{
-			"id": "BTC",
-			"wallet": "YmMxcXB0eGxyOWxjY3NnYWFja3NkYTB1MzRsZnVoNnE4cGo4NWY1OHJr",
-			"title": "Bitcoin (BTC)",
-			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/btc.png"
+			"id": "ETH",
+			"wallet": "MHhkMzE3ZTY2YjJiZjI2MzRFNDc1ZTJBN0EyRUM1N2VDNGMxNkM4MTQ1",
+			"title": "Ethereum (ЕTH)",
+			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/eth.png"
 		}
 	]
 }
