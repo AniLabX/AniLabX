@@ -32,7 +32,7 @@
 	"donate_systems": [
 		{
 			"id": "DONATE",
-			"system": "aHR0cHM6Ly9uZXcuZG9uYXRlcGF5LnJ1L0BjcmF6eXhhY2tlci1hcHBz",
+			"system": "aHR0cHM6Ly9uZXcuZG9uYXRlcGF5LnJ1L0BhbHgtdGVhbQ==",
 			"title": "Россия/Беларусь",
 			"subtitle": {
 				"en": "Donation Service • Manual Processing",
