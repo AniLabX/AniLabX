@@ -49,23 +49,7 @@
 		{
 			"id": "GUMROAD",
 			"system": "aHR0cHM6Ly9hbmlsYWJ4Lmd1bXJvYWQuY29tLw==",
-			"title": "Україна/Europe",
-			"subtitle": {
-				"en": "Promocodes • Auto issuing",
-				"ru": "Промокоды • Автоматическая выдача",
-				"ua": "Промокоди • Автоматична видача"
-			},
-			"info": {
-				"en": "After making a donation you will receive a promo code, which you need to activate in the Promo codes section (you do not need to create request). It is recommended to wait ~15 minutes before activation for correct transaction processing",
-				"ru": "После совершения пожертвования вы получите промокод, который нужно активировать в разделе Промокоды (заявку создавать не нужно). Рекомендуется выждать ~15 минут перед активацией для корректной обработки транзакции",
-				"ua": "Після здійснення пожертвування ви отримаєте промокод, який потрібно активувати в розділі Промокоди (заявку створювати не потрібно). Рекомендується почекати ~15 хвилин перед активацією для коректної обробки транзакції"
-			},
-			"icon": "https://assets.gumroad.com/assets/pink-icon-c5f5013768a1da41246e70403f02afc8b34ac89c20f3ba2dd0a01f3973027700.png"
-		},
-		{
-			"id": "WORLD",
-			"system": "aHR0cHM6Ly9hbmlsYWJ4Lmd1bXJvYWQuY29tLw==",
-			"title": "Весь мир/World",
+			"title": "Україна/Весь мир/World",
 			"subtitle": {
 				"en": "Promocodes • Auto issuing",
 				"ru": "Промокоды • Автоматическая выдача",
