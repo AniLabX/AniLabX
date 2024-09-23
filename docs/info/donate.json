@@ -81,9 +81,24 @@
 	],
 	"donate_wallets": [
 		{
+			"id": "TON",
+			"type": "CRYPTO",
+			"wallet": "VVFDVTNjUnlaYWhKa1VTR3RpdzZ4QjEyNUcwU3Bvc1AxODJtZWtUVlRnNUxYc042",
+			"title": "Toncoin (TON)",
+			"subtitle": {
+				"default": "TON"
+			},
+			"info": {
+				"en": "Standard transaction fee ~0.005 TON",
+				"ru": "Стандартная комиссия за транзакцию ~0.005 TON",
+				"ua": "Стандартна комісія за транзакцію ~0.005 TON"
+			},
+			"icon": "https://i.imgur.com/1i5Nznw.png"
+		},
+		{
 			"id": "TETHER_TRC20",
 			"type": "CRYPTO",
-			"wallet": "VERaTTlIaVJtelZ2czlxeHFiNlRMRTc1NkZRSFlodWVpUQ==",
+			"wallet": "VEhzbWc1eUpOZ3VlbjE1ZmJwTUdEblA5M1d3V2Fad255ZQ==",
 			"title": "Tether (USDT TRC20)",
 			"subtitle": {
 				"default": "TRC20"
@@ -96,9 +111,24 @@
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/usdt.png"
 		},
 		{
+			"id": "TRON_TRX",
+			"type": "CRYPTO",
+			"wallet": "VEhzbWc1eUpOZ3VlbjE1ZmJwTUdEblA5M1d3V2Fad255ZQ==",
+			"title": "Tron (TRX)",
+			"subtitle": {
+				"default": "TRX"
+			},
+			"info": {
+				"en": "Standard transaction fee ~1 TRX",
+				"ru": "Стандартная комиссия за транзакцию ~1 TRX",
+				"ua": "Стандартна комісія за транзакцію ~1 TRX"
+			},
+			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/color/trx.png"
+		},
+		{
 			"id": "LTC",
 			"type": "CRYPTO",
-			"wallet": "bHRjMXF1aHFrYWM3MzZ0cGYweDZldzRrdXA0MHJyMjJkcDhueHozZnhqZA==",
+			"wallet": "bHRjMXFsdDg0YXBoMHFsOXR4NXhwa2d0bmpndzI4YzY5Z3dmNzJ2ZDMyeA==",
 			"title": "Litecoin (LTC)",
 			"subtitle": {
 				"default": "LTC"
@@ -113,7 +143,7 @@
 		{
 			"id": "ETH",
 			"type": "CRYPTO",
-			"wallet": "MHhkMzE3ZTY2YjJiZjI2MzRFNDc1ZTJBN0EyRUM1N2VDNGMxNkM4MTQ1",
+			"wallet": "MHg2ZDUxYWQzMzg2NDNBNEI2NDM4NTg5NWZFRmU3RUU3ZjE2YzYzRjVB",
 			"title": "Ethereum (ЕTH)",
 			"subtitle": {
 				"default": "ETH"
