@@ -70,6 +70,9 @@
 			"type": "CRYPTO",
 			"wallet": "VERaTTlIaVJtelZ2czlxeHFiNlRMRTc1NkZRSFlodWVpUQ==",
 			"title": "Tether (USDT TRC20)",
+			"subtitle": {
+				"default": "TRC20"
+			},
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/usdt.png"
 		},
 		{
@@ -77,6 +80,9 @@
 			"type": "CRYPTO",
 			"wallet": "bHRjMXF1aHFrYWM3MzZ0cGYweDZldzRrdXA0MHJyMjJkcDhueHozZnhqZA==",
 			"title": "Litecoin (LTC)",
+			"subtitle": {
+				"default": "LTC"
+			},
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/ltc.png"
 		},
 		{
@@ -84,6 +90,9 @@
 			"type": "CRYPTO",
 			"wallet": "MHhkMzE3ZTY2YjJiZjI2MzRFNDc1ZTJBN0EyRUM1N2VDNGMxNkM4MTQ1",
 			"title": "Ethereum (ЕTH)",
+			"subtitle": {
+				"default": "ETH"
+			},
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/color/eth.png"
 		}
 	]
