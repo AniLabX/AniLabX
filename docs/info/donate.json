@@ -40,9 +40,9 @@
 				"ua": "Сервіс пожертвувань • Ручна обробка"
 			},
 			"info": {
-				"en": "It is not recommended to use hryvnias (UAH) and cryptocurrencies as you can lose your money!",
-				"ru": "Не рекомендуется использовать гривны (UAH) и криптовалюты, так как вы можете потерять свои деньги!",
-				"ua": "Не рекомендується використовувати гривні (UAH) і криптовалюти, оскільки ви можете втратити свої гроші!"
+				"en": "Be sure to include your nickname or email before the @ symbol when making a donation through this service!\nIt is not recommended to use hryvnias (UAH) and cryptocurrencies as you can lose your money!",
+				"ru": "Обязательно укажите ваш никнейм или почту до символа @ во время совершения пожертвования через данный сервис!\nНе рекомендуется использовать гривны (UAH) и криптовалюты, так как вы можете потерять свои деньги!",
+				"ua": "Обов'язково вкажіть ваш нікнейм або пошту до символу @ під час здійснення пожертви через цей сервіс!\nНе рекомендується використовувати гривні (UAH) і криптовалюти, оскільки ви можете втратити свої гроші!"
 			},
 			"icon": "https://i.imgur.com/lNC5ZPM.png"
 		},
