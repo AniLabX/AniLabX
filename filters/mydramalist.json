@@ -13,6 +13,7 @@
     "01_sort": {
         "name": "Sort",
         "choice_mode": "sort",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Recently",
