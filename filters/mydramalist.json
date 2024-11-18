@@ -2,6 +2,7 @@
     "00_search": {
         "name": "Search",
         "choice_mode": "search",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Search",
@@ -34,6 +35,7 @@
     "03_status": {
         "name": "Status",
         "choice_mode": "single",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "All",
@@ -56,6 +58,7 @@
     "04_type": {
         "name": "Type",
         "choice_mode": "multiple",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Dramas",
@@ -78,6 +81,7 @@
     "05_genre": {
         "name": "Genre",
         "choice_mode": "multiple",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Action",
@@ -256,6 +260,7 @@
     "06_tag": {
         "name": "Tag",
         "choice_mode": "multiple",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Food",
@@ -2934,6 +2939,7 @@
     "07_country": {
         "name": "Country",
         "choice_mode": "multiple",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Japan",
@@ -2968,6 +2974,7 @@
     "08_year": {
         "name": "Year",
         "choice_mode": "range",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Range",
@@ -3042,6 +3049,7 @@
     "09_score": {
         "name": "Score",
         "choice_mode": "range",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Range",
@@ -3076,6 +3084,7 @@
     "10_episodes": {
         "name": "Episodes",
         "choice_mode": "range",
+        "filter_type": "get_query",
         "values": [
             {
                 "name": "Range",
