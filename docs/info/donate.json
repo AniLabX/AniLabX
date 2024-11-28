@@ -110,6 +110,21 @@
 			"icon": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/color/trx.png"
 		},
 		{
+			"id": "TETHER_BEP20",
+			"type": "CRYPTO",
+			"wallet": "MHg2ZDUxYWQzMzg2NDNBNEI2NDM4NTg5NWZFRmU3RUU3ZjE2YzYzRjVB",
+			"title": "Tether (USDT BEP20)",
+			"subtitle": {
+				"default": "BEP20"
+			},
+			"info": {
+				"en": "Standard transaction fee ~0-1 USDT",
+				"ru": "Стандартная комиссия за транзакцию ~0-1 USDT",
+				"ua": "Стандартна комісія за транзакцію ~0-1 USDT"
+			},
+			"icon": "https://static.ballet.com/cc-icon/usdt-bep20.png"
+		},
+		{
 			"id": "LTC",
 			"type": "CRYPTO",
 			"wallet": "bHRjMXFsdDg0YXBoMHFsOXR4NXhwa2d0bmpndzI4YzY5Z3dmNzJ2ZDMyeA==",
