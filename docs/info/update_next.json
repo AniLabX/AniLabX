@@ -1,9 +1,9 @@
 {
 	"beta": {
-		"version_name": "5.5 (studio-mir)",
-		"version_code": "553",
+		"version_name": "5.6 (Beta 1)",
+		"version_code": "560",
 		"min_version_code": "551",
-		"content": "<b>Версия 5.5 (studio-mir) - Beta</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Скачать файл через браузер</a><ul><li>Новинка:</li>\r\n<li>Гибридные каталоги:</li>\r\n<li>- Поддержка гибридного каталога Творческая студия МИР</li>\r\n</ul>"
+		"content": "<b>Версия 5.6 (Beta 1)</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Скачать файл через браузер</a>\r\n\r\n<a href=\"https://anilabx.xyz/ru/installation/changelog.html#_5-6-beta-1\">Список изменений из 79 пунктов на официальном сайте</a>"
 	},
 	"release": {
 		"version_name": "5.5 (studio-mir)",
