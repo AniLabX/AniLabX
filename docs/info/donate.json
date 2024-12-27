@@ -1,7 +1,7 @@
 {
 	"no_ads": {
 		"rub": 99,
-		"uah": 40,
+		"uah": 42,
 		"usd": 1,
 		"stars": 76,
 		"gift": {
@@ -12,7 +12,7 @@
 	},
 	"sub_watchables": {
 		"rub": 49,
-		"uah": 20,
+		"uah": 21,
 		"usd": 0.5,
 		"stars": 38,
 		"discount": {
@@ -23,7 +23,7 @@
 	},
 	"sub_readables": {
 		"rub": 49,
-		"uah": 20,
+		"uah": 21,
 		"usd": 0.5,
 		"stars": 38,
 		"discount": {
