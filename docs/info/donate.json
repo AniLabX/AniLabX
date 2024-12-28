@@ -50,6 +50,22 @@
 			"icon": "https://i.imgur.com/lNC5ZPM.png"
 		},
 		{
+			"id": "TELEGRAM_STARS",
+			"system": "aHR0cHM6Ly90Lm1lL0FuaUxhYlhCb3Q=",
+			"title": "Telegram Stars",
+			"subtitle": {
+				"en": "Chat Bot • Auto issuing",
+				"ru": "Чатбот • Автоматическая обработка",
+				"ua": "Чатбот • Автоматична обробка"
+			},
+			"info": {
+				"en": "For all countries! Easily purchase Telegram Stars from your card or via Google/Apple Pay and then redeem for in-app rewards. Fully automatic processing",
+				"ru": "Для всех стран! Легкая покупка Telegram Stars с карты или через Google/Apple Pay с последующим обменом на бонусы в приложении. Полностью автоматическая обработка",
+				"ua": "Для всіх країн! Легка купівля Telegram Stars з картки або через Google/Apple Pay з подальшим обміном на бонуси в додатку. Повністю автоматична обробка"
+			},
+			"icon": "https://i.imgur.com/prUDEQM.jpeg"
+		},
+		{
 			"id": "GUMROAD",
 			"system": "aHR0cHM6Ly9hbmlsYWJ4Lmd1bXJvYWQuY29tLw==",
 			"title": "Україна/Весь мир/World",
