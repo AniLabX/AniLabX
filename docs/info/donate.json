@@ -87,7 +87,7 @@
 			"id": "TON",
 			"type": "CRYPTO",
 			"wallet": "VVFDVTNjUnlaYWhKa1VTR3RpdzZ4QjEyNUcwU3Bvc1AxODJtZWtUVlRnNUxYc042",
-			"title": "Toncoin (TON)",
+			"title": "TONcoin (TON)",
 			"subtitle": {
 				"default": "TON"
 			},
@@ -97,6 +97,21 @@
 				"ua": "Стандартна комісія за транзакцію ~0.005 TON"
 			},
 			"icon": "https://i.imgur.com/1i5Nznw.png"
+		},
+		{
+			"id": "TETHER_TON",
+			"type": "CRYPTO",
+			"wallet": "VVFDVTNjUnlaYWhKa1VTR3RpdzZ4QjEyNUcwU3Bvc1AxODJtZWtUVlRnNUxYc042",
+			"title": "Tether (USDT TON)",
+			"subtitle": {
+				"default": "USDT on TONcoin"
+			},
+			"info": {
+				"en": "Standard transaction fee ~0.005 TON",
+				"ru": "Стандартная комиссия за транзакцию ~0.005 TON",
+				"ua": "Стандартна комісія за транзакцію ~0.005 TON"
+			},
+			"icon": "https://i.imgur.com/vJ0i55n.png"
 		},
 		{
 			"id": "TETHER_TRC20",
