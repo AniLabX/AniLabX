@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "5.6 (Beta 1)",
-		"version_code": "560",
+		"version_name": "5.6 (Tracking Update)",
+		"version_code": "561",
 		"min_version_code": "551",
-		"content": "<b>Версия 5.6 (Beta 1)</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Скачать файл через браузер</a><br><br><a href=\"https://anilabx.xyz/ru/installation/changelog.html#_5-6-beta-1\">Список изменений из 79 пунктов на официальном сайте</a>"
+		"content": "<b>Версия 5.6 (Tracking Update) - Beta</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Скачать файл через браузер</a><br><br><a href=\"https://anilabx.xyz/ru/installation/changelog.html#_5-6-tracking-update\">Список изменений из 104 пунктов на официальном сайте</a>"
 	},
 	"release": {
-		"version_name": "5.5 (studio-mir)",
-		"version_code": "553",
+		"version_name": "5.6 (Tracking Update)",
+		"version_code": "561",
 		"min_version_code": "551",
-		"content": "<b>Версия 5.5 (studio-mir) - Release</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Скачать файл через браузер</a><ul><li>Новинка:</li>\r\n<li>Гибридные каталоги:</li>\r\n<li>- Поддержка гибридного каталога Творческая студия МИР</li>\r\n</ul>"
+		"content": "<b>Версия 5.6 (Tracking Update) - Release</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Скачать файл через браузер</a><br><br><a href=\"https://anilabx.xyz/ru/installation/changelog.html#_5-6-tracking-update\">Список изменений из 104 пунктов на официальном сайте</a>"
 	}
 }
