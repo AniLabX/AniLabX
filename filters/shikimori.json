@@ -217,40 +217,40 @@
         "filter_type": "get_query",
         "values": [
             {
-                "name": "1",
-                "value": "1+"
+                "value": "1",
+                "name": "1+"
             },
             {
-                "name": "2",
-                "value": "2+"
+                "value": "2",
+                "name": "2+"
             },
             {
-                "name": "3",
-                "value": "3+"
+                "value": "3",
+                "name": "3+"
             },
             {
-                "name": "4",
-                "value": "4+"
+                "value": "4",
+                "name": "4+"
             },
             {
-                "name": "5",
-                "value": "5+"
+                "value": "5",
+                "name": "5+"
             },
             {
-                "name": "6",
-                "value": "6+"
+                "value": "6",
+                "name": "6+"
             },
             {
-                "name": "7",
-                "value": "7+"
+                "value": "7",
+                "name": "7+"
             },
             {
-                "name": "8",
-                "value": "8+"
+                "value": "8",
+                "name": "8+"
             },
             {
-                "name": "9",
-                "value": "9+"
+                "value": "9",
+                "name": "9+"
             }
         ]
     },
@@ -13285,155 +13285,261 @@
         "values": [
             {
                 "name": "Зима 2025",
-                "value": "FALL_2025"
+                "value": "fall_2025"
             },
             {
                 "name": "Лето 2025",
-                "value": "SUMMER_2025"
+                "value": "summer_2025"
             },
             {
                 "name": "Весна 2025",
-                "value": "SPRING_2025"
+                "value": "spring_2025"
             },
             {
                 "name": "Зима 2025",
-                "value": "WINTER_2025"
+                "value": "winter_2025"
             },
             {
                 "name": "Зима 2024",
-                "value": "FALL_2024"
+                "value": "fall_2024"
             },
             {
                 "name": "Лето 2024",
-                "value": "SUMMER_2024"
+                "value": "summer_2024"
             },
             {
                 "name": "Весна 2024",
-                "value": "SPRING_2024"
+                "value": "spring_2024"
             },
             {
                 "name": "Зима 2024",
-                "value": "WINTER_2024"
+                "value": "winter_2024"
             },
             {
                 "name": "Зима 2023",
-                "value": "FALL_2023"
+                "value": "fall_2023"
             },
             {
                 "name": "Лето 2023",
-                "value": "SUMMER_2023"
+                "value": "summer_2023"
             },
             {
                 "name": "Весна 2023",
-                "value": "SPRING_2023"
+                "value": "spring_2023"
             },
             {
                 "name": "Зима 2023",
-                "value": "WINTER_2023"
+                "value": "winter_2023"
             },
             {
                 "name": "Зима 2022",
-                "value": "FALL_2022"
+                "value": "fall_2022"
             },
             {
                 "name": "Лето 2022",
-                "value": "SUMMER_2022"
+                "value": "summer_2022"
             },
             {
                 "name": "Весна 2022",
-                "value": "SPRING_2022"
+                "value": "spring_2022"
             },
             {
                 "name": "Зима 2022",
-                "value": "WINTER_2022"
+                "value": "winter_2022"
             },
             {
                 "name": "Зима 2021",
-                "value": "FALL_2021"
+                "value": "fall_2021"
             },
             {
                 "name": "Лето 2021",
-                "value": "SUMMER_2021"
+                "value": "summer_2021"
             },
             {
                 "name": "Весна 2021",
-                "value": "SPRING_2021"
+                "value": "spring_2021"
             },
             {
                 "name": "Зима 2021",
-                "value": "WINTER_2021"
+                "value": "winter_2021"
             },
             {
                 "name": "Зима 2020",
-                "value": "FALL_2020"
+                "value": "fall_2020"
             },
             {
                 "name": "Лето 2020",
-                "value": "SUMMER_2020"
+                "value": "summer_2020"
             },
             {
                 "name": "Весна 2020",
-                "value": "SPRING_2020"
+                "value": "spring_2020"
             },
             {
                 "name": "Зима 2020",
-                "value": "WINTER_2020"
+                "value": "winter_2020"
             },
             {
                 "name": "Зима 2019",
-                "value": "FALL_2019"
+                "value": "fall_2019"
             },
             {
                 "name": "Лето 2019",
-                "value": "SUMMER_2019"
+                "value": "summer_2019"
             },
             {
                 "name": "Весна 2019",
-                "value": "SPRING_2019"
+                "value": "spring_2019"
             },
             {
                 "name": "Зима 2019",
-                "value": "WINTER_2019"
+                "value": "winter_2019"
             },
             {
                 "name": "Зима 2018",
-                "value": "FALL_2018"
+                "value": "fall_2018"
             },
             {
-                "name": "2020",
-                "value": "Y_2020"
+                "n_v": "2025"
             },
             {
-                "name": "2019",
-                "value": "Y_2019"
+                "n_v": "2024"
             },
             {
-                "name": "2018",
-                "value": "Y_2018"
+                "n_v": "2023"
             },
             {
-                "name": "2016–2017",
-                "value": "Y_2016_2017"
+                "n_v": "2022"
             },
             {
-                "name": "2011–2015",
-                "value": "Y_2011_2015"
+                "n_v": "2021"
             },
             {
-                "name": "2000–2010",
-                "value": "Y_2000_2010"
+                "n_v": "2020"
             },
             {
-                "name": "199X",
-                "value": "Y_199X"
+                "n_v": "2019"
             },
             {
-                "name": "198X",
-                "value": "Y_198X"
+                "n_v": "2018"
+            },
+            {
+                "n_v": "2017"
+            },
+            {
+                "n_v": "2016"
+            },
+            {
+                "n_v": "2015"
+            },
+            {
+                "n_v": "2014"
+            },
+            {
+                "n_v": "2013"
+            },
+            {
+                "n_v": "2012"
+            },
+            {
+                "n_v": "2011"
+            },
+            {
+                "n_v": "2010"
+            },
+            {
+                "n_v": "2009"
+            },
+            {
+                "n_v": "2008"
+            },
+            {
+                "n_v": "2007"
+            },
+            {
+                "n_v": "2006"
+            },
+            {
+                "n_v": "2005"
+            },
+            {
+                "n_v": "2004"
+            },
+            {
+                "n_v": "2003"
+            },
+            {
+                "n_v": "2002"
+            },
+            {
+                "n_v": "2001"
+            },
+            {
+                "n_v": "2000"
+            },
+            {
+                "n_v": "1999"
+            },
+            {
+                "n_v": "1998"
+            },
+            {
+                "n_v": "1997"
+            },
+            {
+                "n_v": "1996"
+            },
+            {
+                "n_v": "1995"
+            },
+            {
+                "n_v": "1994"
+            },
+            {
+                "n_v": "1993"
+            },
+            {
+                "n_v": "1992"
+            },
+            {
+                "n_v": "1991"
+            },
+            {
+                "n_v": "1990"
+            },
+            {
+                "n_v": "1989"
+            },
+            {
+                "n_v": "1988"
+            },
+            {
+                "n_v": "1987"
+            },
+            {
+                "n_v": "1986"
+            },
+            {
+                "n_v": "1985"
+            },
+            {
+                "n_v": "1984"
+            },
+            {
+                "n_v": "1983"
+            },
+            {
+                "n_v": "1982"
+            },
+            {
+                "n_v": "1981"
+            },
+            {
+                "n_v": "1980"
             },
             {
                 "name": "Более старые",
-                "value": "ANCIENT"
+                "value": "ancient"
             }
         ]
     },
