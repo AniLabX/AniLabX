@@ -1,0 +1,766 @@
+{
+    "00_target_type": {
+        "name": "Тип контента",
+        "choice_mode": "single",
+        "filter_type": "get_query",
+        "query_name": "target_type",
+        "values": [
+            {
+                "name": "Anime",
+                "value": "ANIME",
+                "activate_sections": [
+                    "03_anime_season"
+                ]
+            },
+            {
+                "name": "Manga",
+                "value": "MANGA"
+            }
+        ]
+    },
+    "03_anime_season": {
+        "name": "Season",
+        "choice_mode": "single",
+        "filter_type": "get_query",
+        "query_name": "season",
+        "is_active": false,
+        "values": [
+            {
+                "name": "Fall 2025",
+                "value": "fall_2025"
+            },
+            {
+                "name": "Summer 2025",
+                "value": "summer_2025"
+            },
+            {
+                "name": "Spring 2025",
+                "value": "spring_2025"
+            },
+            {
+                "name": "Winter 2025",
+                "value": "winter_2025"
+            },
+            {
+                "name": "Fall 2024",
+                "value": "fall_2024"
+            },
+            {
+                "name": "Summer 2024",
+                "value": "summer_2024"
+            },
+            {
+                "name": "Spring 2024",
+                "value": "spring_2024"
+            },
+            {
+                "name": "Winter 2024",
+                "value": "winter_2024"
+            },
+            {
+                "name": "Fall 2023",
+                "value": "fall_2023"
+            },
+            {
+                "name": "Summer 2023",
+                "value": "summer_2023"
+            },
+            {
+                "name": "Spring 2023",
+                "value": "spring_2023"
+            },
+            {
+                "name": "Winter 2023",
+                "value": "winter_2023"
+            },
+            {
+                "name": "Fall 2022",
+                "value": "fall_2022"
+            },
+            {
+                "name": "Summer 2022",
+                "value": "summer_2022"
+            },
+            {
+                "name": "Spring 2022",
+                "value": "spring_2022"
+            },
+            {
+                "name": "Winter 2022",
+                "value": "winter_2022"
+            },
+            {
+                "name": "Fall 2021",
+                "value": "fall_2021"
+            },
+            {
+                "name": "Summer 2021",
+                "value": "summer_2021"
+            },
+            {
+                "name": "Spring 2021",
+                "value": "spring_2021"
+            },
+            {
+                "name": "Winter 2021",
+                "value": "winter_2021"
+            },
+            {
+                "name": "Fall 2020",
+                "value": "fall_2020"
+            },
+            {
+                "name": "Summer 2020",
+                "value": "summer_2020"
+            },
+            {
+                "name": "Spring 2020",
+                "value": "spring_2020"
+            },
+            {
+                "name": "Winter 2020",
+                "value": "winter_2020"
+            },
+            {
+                "name": "Fall 2019",
+                "value": "fall_2019"
+            },
+            {
+                "name": "Summer 2019",
+                "value": "summer_2019"
+            },
+            {
+                "name": "Spring 2019",
+                "value": "spring_2019"
+            },
+            {
+                "name": "Winter 2019",
+                "value": "winter_2019"
+            },
+            {
+                "name": "Fall 2018",
+                "value": "fall_2018"
+            },
+            {
+                "name": "Summer 2018",
+                "value": "summer_2018"
+            },
+            {
+                "name": "Spring 2018",
+                "value": "spring_2018"
+            },
+            {
+                "name": "Winter 2018",
+                "value": "winter_2018"
+            },
+            {
+                "name": "Fall 2017",
+                "value": "fall_2017"
+            },
+            {
+                "name": "Summer 2017",
+                "value": "summer_2017"
+            },
+            {
+                "name": "Spring 2017",
+                "value": "spring_2017"
+            },
+            {
+                "name": "Winter 2017",
+                "value": "winter_2017"
+            },
+            {
+                "name": "Fall 2016",
+                "value": "fall_2016"
+            },
+            {
+                "name": "Summer 2016",
+                "value": "summer_2016"
+            },
+            {
+                "name": "Spring 2016",
+                "value": "spring_2016"
+            },
+            {
+                "name": "Winter 2016",
+                "value": "winter_2016"
+            },
+            {
+                "name": "Fall 2015",
+                "value": "fall_2015"
+            },
+            {
+                "name": "Summer 2015",
+                "value": "summer_2015"
+            },
+            {
+                "name": "Spring 2015",
+                "value": "spring_2015"
+            },
+            {
+                "name": "Winter 2015",
+                "value": "winter_2015"
+            },
+            {
+                "name": "Fall 2014",
+                "value": "fall_2014"
+            },
+            {
+                "name": "Summer 2014",
+                "value": "summer_2014"
+            },
+            {
+                "name": "Spring 2014",
+                "value": "spring_2014"
+            },
+            {
+                "name": "Winter 2014",
+                "value": "winter_2014"
+            },
+            {
+                "name": "Fall 2013",
+                "value": "fall_2013"
+            },
+            {
+                "name": "Summer 2013",
+                "value": "summer_2013"
+            },
+            {
+                "name": "Spring 2013",
+                "value": "spring_2013"
+            },
+            {
+                "name": "Winter 2013",
+                "value": "winter_2013"
+            },
+            {
+                "name": "Fall 2012",
+                "value": "fall_2012"
+            },
+            {
+                "name": "Summer 2012",
+                "value": "summer_2012"
+            },
+            {
+                "name": "Spring 2012",
+                "value": "spring_2012"
+            },
+            {
+                "name": "Winter 2012",
+                "value": "winter_2012"
+            },
+            {
+                "name": "Fall 2011",
+                "value": "fall_2011"
+            },
+            {
+                "name": "Summer 2011",
+                "value": "summer_2011"
+            },
+            {
+                "name": "Spring 2011",
+                "value": "spring_2011"
+            },
+            {
+                "name": "Winter 2011",
+                "value": "winter_2011"
+            },
+            {
+                "name": "Fall 2010",
+                "value": "fall_2010"
+            },
+            {
+                "name": "Summer 2010",
+                "value": "summer_2010"
+            },
+            {
+                "name": "Spring 2010",
+                "value": "spring_2010"
+            },
+            {
+                "name": "Winter 2010",
+                "value": "winter_2010"
+            },
+            {
+                "name": "Fall 2009",
+                "value": "fall_2009"
+            },
+            {
+                "name": "Summer 2009",
+                "value": "summer_2009"
+            },
+            {
+                "name": "Spring 2009",
+                "value": "spring_2009"
+            },
+            {
+                "name": "Winter 2009",
+                "value": "winter_2009"
+            },
+            {
+                "name": "Fall 2008",
+                "value": "fall_2008"
+            },
+            {
+                "name": "Summer 2008",
+                "value": "summer_2008"
+            },
+            {
+                "name": "Spring 2008",
+                "value": "spring_2008"
+            },
+            {
+                "name": "Winter 2008",
+                "value": "winter_2008"
+            },
+            {
+                "name": "Fall 2007",
+                "value": "fall_2007"
+            },
+            {
+                "name": "Summer 2007",
+                "value": "summer_2007"
+            },
+            {
+                "name": "Spring 2007",
+                "value": "spring_2007"
+            },
+            {
+                "name": "Winter 2007",
+                "value": "winter_2007"
+            },
+            {
+                "name": "Fall 2006",
+                "value": "fall_2006"
+            },
+            {
+                "name": "Summer 2006",
+                "value": "summer_2006"
+            },
+            {
+                "name": "Spring 2006",
+                "value": "spring_2006"
+            },
+            {
+                "name": "Winter 2006",
+                "value": "winter_2006"
+            },
+            {
+                "name": "Fall 2005",
+                "value": "fall_2005"
+            },
+            {
+                "name": "Summer 2005",
+                "value": "summer_2005"
+            },
+            {
+                "name": "Spring 2005",
+                "value": "spring_2005"
+            },
+            {
+                "name": "Winter 2005",
+                "value": "winter_2005"
+            },
+            {
+                "name": "Fall 2004",
+                "value": "fall_2004"
+            },
+            {
+                "name": "Summer 2004",
+                "value": "summer_2004"
+            },
+            {
+                "name": "Spring 2004",
+                "value": "spring_2004"
+            },
+            {
+                "name": "Winter 2004",
+                "value": "winter_2004"
+            },
+            {
+                "name": "Fall 2003",
+                "value": "fall_2003"
+            },
+            {
+                "name": "Summer 2003",
+                "value": "summer_2003"
+            },
+            {
+                "name": "Spring 2003",
+                "value": "spring_2003"
+            },
+            {
+                "name": "Winter 2003",
+                "value": "winter_2003"
+            },
+            {
+                "name": "Fall 2002",
+                "value": "fall_2002"
+            },
+            {
+                "name": "Summer 2002",
+                "value": "summer_2002"
+            },
+            {
+                "name": "Spring 2002",
+                "value": "spring_2002"
+            },
+            {
+                "name": "Winter 2002",
+                "value": "winter_2002"
+            },
+            {
+                "name": "Fall 2001",
+                "value": "fall_2001"
+            },
+            {
+                "name": "Summer 2001",
+                "value": "summer_2001"
+            },
+            {
+                "name": "Spring 2001",
+                "value": "spring_2001"
+            },
+            {
+                "name": "Winter 2001",
+                "value": "winter_2001"
+            },
+            {
+                "name": "Fall 2000",
+                "value": "fall_2000"
+            },
+            {
+                "name": "Summer 2000",
+                "value": "summer_2000"
+            },
+            {
+                "name": "Spring 2000",
+                "value": "spring_2000"
+            },
+            {
+                "name": "Winter 2000",
+                "value": "winter_2000"
+            },
+            {
+                "name": "Fall 1999",
+                "value": "fall_1999"
+            },
+            {
+                "name": "Summer 1999",
+                "value": "summer_1999"
+            },
+            {
+                "name": "Spring 1999",
+                "value": "spring_1999"
+            },
+            {
+                "name": "Winter 1999",
+                "value": "winter_1999"
+            },
+            {
+                "name": "Fall 1998",
+                "value": "fall_1998"
+            },
+            {
+                "name": "Summer 1998",
+                "value": "summer_1998"
+            },
+            {
+                "name": "Spring 1998",
+                "value": "spring_1998"
+            },
+            {
+                "name": "Winter 1998",
+                "value": "winter_1998"
+            },
+            {
+                "name": "Fall 1997",
+                "value": "fall_1997"
+            },
+            {
+                "name": "Summer 1997",
+                "value": "summer_1997"
+            },
+            {
+                "name": "Spring 1997",
+                "value": "spring_1997"
+            },
+            {
+                "name": "Winter 1997",
+                "value": "winter_1997"
+            },
+            {
+                "name": "Fall 1996",
+                "value": "fall_1996"
+            },
+            {
+                "name": "Summer 1996",
+                "value": "summer_1996"
+            },
+            {
+                "name": "Spring 1996",
+                "value": "spring_1996"
+            },
+            {
+                "name": "Winter 1996",
+                "value": "winter_1996"
+            },
+            {
+                "name": "Fall 1995",
+                "value": "fall_1995"
+            },
+            {
+                "name": "Summer 1995",
+                "value": "summer_1995"
+            },
+            {
+                "name": "Spring 1995",
+                "value": "spring_1995"
+            },
+            {
+                "name": "Winter 1995",
+                "value": "winter_1995"
+            },
+            {
+                "name": "Fall 1994",
+                "value": "fall_1994"
+            },
+            {
+                "name": "Summer 1994",
+                "value": "summer_1994"
+            },
+            {
+                "name": "Spring 1994",
+                "value": "spring_1994"
+            },
+            {
+                "name": "Winter 1994",
+                "value": "winter_1994"
+            },
+            {
+                "name": "Fall 1993",
+                "value": "fall_1993"
+            },
+            {
+                "name": "Summer 1993",
+                "value": "summer_1993"
+            },
+            {
+                "name": "Spring 1993",
+                "value": "spring_1993"
+            },
+            {
+                "name": "Winter 1993",
+                "value": "winter_1993"
+            },
+            {
+                "name": "Fall 1992",
+                "value": "fall_1992"
+            },
+            {
+                "name": "Summer 1992",
+                "value": "summer_1992"
+            },
+            {
+                "name": "Spring 1992",
+                "value": "spring_1992"
+            },
+            {
+                "name": "Winter 1992",
+                "value": "winter_1992"
+            },
+            {
+                "name": "Fall 1991",
+                "value": "fall_1991"
+            },
+            {
+                "name": "Summer 1991",
+                "value": "summer_1991"
+            },
+            {
+                "name": "Spring 1991",
+                "value": "spring_1991"
+            },
+            {
+                "name": "Winter 1991",
+                "value": "winter_1991"
+            },
+            {
+                "name": "Fall 1990",
+                "value": "fall_1990"
+            },
+            {
+                "name": "Summer 1990",
+                "value": "summer_1990"
+            },
+            {
+                "name": "Spring 1990",
+                "value": "spring_1990"
+            },
+            {
+                "name": "Winter 1990",
+                "value": "winter_1990"
+            },
+            {
+                "name": "Fall 1989",
+                "value": "fall_1989"
+            },
+            {
+                "name": "Summer 1989",
+                "value": "summer_1989"
+            },
+            {
+                "name": "Spring 1989",
+                "value": "spring_1989"
+            },
+            {
+                "name": "Winter 1989",
+                "value": "winter_1989"
+            },
+            {
+                "name": "Fall 1988",
+                "value": "fall_1988"
+            },
+            {
+                "name": "Summer 1988",
+                "value": "summer_1988"
+            },
+            {
+                "name": "Spring 1988",
+                "value": "spring_1988"
+            },
+            {
+                "name": "Winter 1988",
+                "value": "winter_1988"
+            },
+            {
+                "name": "Fall 1987",
+                "value": "fall_1987"
+            },
+            {
+                "name": "Summer 1987",
+                "value": "summer_1987"
+            },
+            {
+                "name": "Spring 1987",
+                "value": "spring_1987"
+            },
+            {
+                "name": "Winter 1987",
+                "value": "winter_1987"
+            },
+            {
+                "name": "Fall 1986",
+                "value": "fall_1986"
+            },
+            {
+                "name": "Summer 1986",
+                "value": "summer_1986"
+            },
+            {
+                "name": "Spring 1986",
+                "value": "spring_1986"
+            },
+            {
+                "name": "Winter 1986",
+                "value": "winter_1986"
+            },
+            {
+                "name": "Fall 1985",
+                "value": "fall_1985"
+            },
+            {
+                "name": "Summer 1985",
+                "value": "summer_1985"
+            },
+            {
+                "name": "Spring 1985",
+                "value": "spring_1985"
+            },
+            {
+                "name": "Winter 1985",
+                "value": "winter_1985"
+            },
+            {
+                "name": "Fall 1984",
+                "value": "fall_1984"
+            },
+            {
+                "name": "Summer 1984",
+                "value": "summer_1984"
+            },
+            {
+                "name": "Spring 1984",
+                "value": "spring_1984"
+            },
+            {
+                "name": "Winter 1984",
+                "value": "winter_1984"
+            },
+            {
+                "name": "Fall 1983",
+                "value": "fall_1983"
+            },
+            {
+                "name": "Summer 1983",
+                "value": "summer_1983"
+            },
+            {
+                "name": "Spring 1983",
+                "value": "spring_1983"
+            },
+            {
+                "name": "Winter 1983",
+                "value": "winter_1983"
+            },
+            {
+                "name": "Fall 1982",
+                "value": "fall_1982"
+            },
+            {
+                "name": "Summer 1982",
+                "value": "summer_1982"
+            },
+            {
+                "name": "Spring 1982",
+                "value": "spring_1982"
+            },
+            {
+                "name": "Winter 1982",
+                "value": "winter_1982"
+            },
+            {
+                "name": "Fall 1981",
+                "value": "fall_1981"
+            },
+            {
+                "name": "Summer 1981",
+                "value": "summer_1981"
+            },
+            {
+                "name": "Spring 1981",
+                "value": "spring_1981"
+            },
+            {
+                "name": "Winter 1981",
+                "value": "winter_1981"
+            },
+            {
+                "name": "Fall 1980",
+                "value": "fall_1980"
+            },
+            {
+                "name": "Summer 1980",
+                "value": "summer_1980"
+            },
+            {
+                "name": "Spring 1980",
+                "value": "spring_1980"
+            },
+            {
+                "name": "Winter 1980",
+                "value": "winter_1980"
+            }
+        ]
+    }
+}
