@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "5.7 (Update 5)",
-		"version_code": "575",
+		"version_name": "5.7 (Update 6)",
+		"version_code": "576",
 		"min_version_code": "551",
-		"content": "<b>Версия 5.7 (Update 5) - Beta</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Скачать файл через браузер</a><br><br><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">Список изменений на официальном сайте</a>"
+		"content": "<b>Версия 5.7 (Update 6) - Beta</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Скачать файл через браузер</a><br><br><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">Список изменений на официальном сайте</a>"
 	},
 	"release": {
-		"version_name": "5.7 (Update 5)",
-		"version_code": "575",
+		"version_name": "5.7 (Update 6)",
+		"version_code": "576",
 		"min_version_code": "551",
-		"content": "<b>Версия 5.7 (Update 5) - Release</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Скачать файл через браузер</a><br><br><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">Список изменений на официальном сайте</a>"
+		"content": "<b>Версия 5.7 (Update 6) - Release</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Скачать файл через браузер</a><br><br><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">Список изменений на официальном сайте</a>"
 	}
 }
