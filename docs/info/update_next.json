@@ -1,14 +1,14 @@
 {
 	"beta": {
-		"version_name": "5.7 (Update 13)",
-		"version_code": "583",
+		"version_name": "5.7 (Update 14)",
+		"version_code": "584",
 		"min_version_code": "582",
-		"content": "<b>Версия 5.7 (Update 13) - Release</b><br/><br/><b>Список изменений</b><br/><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">На сайте AniLabX</a><br/><br/><b>Скачать через браузер</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Сайт AniLabX</a> • <a href=\"https://github.com/AniLabX/AniLabX/releases\">GitHub</a> • <a href=\"https://t.me/anilabx\">Telegram</a>"
+		"content": "<b>Версия 5.7 (Update 14) - Release</b><br/><br/><b>Список изменений</b><br/><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">На сайте AniLabX</a><br/><br/><b>Скачать через браузер</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest-beta.apk\">Сайт AniLabX</a> • <a href=\"https://github.com/AniLabX/AniLabX/releases\">GitHub</a> • <a href=\"https://t.me/anilabx\">Telegram</a>"
 	},
 	"release": {
-		"version_name": "5.7 (Update 13)",
-		"version_code": "583",
+		"version_name": "5.7 (Update 14)",
+		"version_code": "584",
 		"min_version_code": "582",
-		"content": "<b>Версия 5.7 (Update 13) - Release</b><br/><br/><b>Список изменений</b><br/><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">На сайте AniLabX</a><br/><br/><b>Скачать через браузер</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Сайт AniLabX</a> • <a href=\"https://github.com/AniLabX/AniLabX/releases\">GitHub</a> • <a href=\"https://t.me/anilabx\">Telegram</a>"
+		"content": "<b>Версия 5.7 (Update 14) - Release</b><br/><br/><b>Список изменений</b><br/><a href=\"https://anilabx.xyz/ru/installation/changelog.html\">На сайте AniLabX</a><br/><br/><b>Скачать через браузер</b><br/><a href=\"https://apk.anilabx.xyz/anilabx-latest.apk\">Сайт AniLabX</a> • <a href=\"https://github.com/AniLabX/AniLabX/releases\">GitHub</a> • <a href=\"https://t.me/anilabx\">Telegram</a>"
 	}
 }
